@@ -4,8 +4,6 @@ usage:
 
 1. pipe output of scholar.py query into a text file
 
-python3 scholar.py --author "albert einstein" --phrase "quantum theory" > "$(date +"%Y_%m_%d_%I_%M_%p").txt"
-
 python3 scholar.py --phrase "digital_humanities" > "$(date +"%Y_%m_%d_%I_%M_%p").txt"
 
 2. import text file into python, parse to dictionary (view one), then maybe to google doc spreadsheet(view 2)
@@ -21,24 +19,29 @@ TODO:
 '''
 
 base = '/Users/mdp/git/scholar.py_trina/'
-input_file='2017_06_14_02_59_PM.txt'
+input_file='2017_06_22_02_11_PM.txt'
 path = ''.join([base, input_file])
+clean = []
+entries = []
 
-step=0 # temporarily in use to make sure identifying a new article by title is
-num_new_articles=0
+num_new_articles=1 # allows for a running total display of separate articles
 
 f = open(path, 'r')
 results = f.read()
 
-splits = results.splitlines()
+splits = results.splitlines() ## output of scholar.py is separated by newlines, split by newlines and convert to list
 
-# testing to confirm that this is a reliable way to break up scholar.py query results
-
+## removing leading and trailing white space so I can false positives from below
 for i in splits:
-    if i.find('Title') == -1:
-        print("same entry")
-        step+=1
-    else:
-        print("new article at position " + str(step) + ", running total of new articles is " + str(num_new_articles) )
-        num_new_articles+=1
-        step+=1
+    cleaned = i.strip()
+    clean.append(cleaned)
+
+## trying to identify the start and end of entries from scholar.py
+for num, info in enumerate(splits):
+    if info.startswith(("Title")):
+        print(info)
+        start_entry = num
+        entries.append(start_entry)
+
+
+entries.sort() ## this reorders list of start and end entries numerically

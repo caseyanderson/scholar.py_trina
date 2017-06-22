@@ -1,7 +1,7 @@
          Title Digital_Humanities
-           URL http://books.google.com/books?hl=en&lr=&id=i-LxCwAAQBAJ&oi=fnd&pg=PR5&dq=%22digital_humanities%22&ots=72RER63Zgl&sig=GecJEB_f7q-W_mLXPyfY93WiUO0
+           URL http://books.google.com/books?hl=en&lr=&id=i-LxCwAAQBAJ&oi=fnd&pg=PR5&dq=%22digital_humanities%22&ots=72RFO52T7g&sig=_OlOjeBiRuq4aiBwihrb_7TPeH8
           Year 2012
-     Citations 294
+     Citations 295
       Versions 3
     Cluster ID 722931040576480915
 Citations list http://scholar.google.com/scholar?cites=722931040576480915&as_sdt=2005&sciodt=0,5&hl=en
