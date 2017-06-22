@@ -31,17 +31,14 @@ results = f.read()
 
 splits = results.splitlines() ## output of scholar.py is separated by newlines, split by newlines and convert to list
 
-## removing leading and trailing white space so I can false positives from below
+## removing leading and trailing white space from splits
 for i in splits:
     cleaned = i.strip()
     clean.append(cleaned)
 
-## trying to identify the start and end of entries from scholar.py
-for num, info in enumerate(splits):
-    if info.startswith(("Title")):
-        print(info)
+## gets the start of a new entry by searching for list items that begin with 'Title'
+## end entry is start_entry - 1
+for num, info in enumerate(clean):
+    if info.startswith('Title'):
         start_entry = num
         entries.append(start_entry)
-
-
-entries.sort() ## this reorders list of start and end entries numerically
