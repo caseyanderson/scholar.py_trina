@@ -25,6 +25,9 @@ entries = []
 pairs = []
 prevstart = 0
 
+scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Cluster ID', 'Citations list', 'Versions list', 'Excerpt']
+
+
 num_new_articles=1 # allows for a running total display of separate articles
 
 f = open(path, 'r')
@@ -44,18 +47,19 @@ for num, info in enumerate(clean):
         start_entry = num
         entries.append(start_entry)
 
-#
-for i in entries:
+
+## sets up the list of entry dictionaries
+separated_entries = list( {} for i in entries )
+
+# this will build the dictionaries, per entry, all stored in a list
+for h, i in enumerate(entries):
     print()
     print(i)
     for j, k in enumerate(clean, start=prevstart):
-        if j <= (prevstart + 8):
+        if j <= (prevstart + 7):
             print(k)
+
             continue
         else:
             prevstart = i
             break
-
-
-## sets up the list of entry dictionaries
-separated_entries = list( {} for i in entries )
