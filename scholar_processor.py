@@ -53,8 +53,8 @@ for i in entries:
             print(k)
             continue
         else:
-            break
             prevstart = i
+            break
 
 
 ## sets up the list of entry dictionaries
