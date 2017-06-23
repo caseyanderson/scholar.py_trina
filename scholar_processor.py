@@ -1,5 +1,4 @@
 '''
-
 usage:
 
 1. pipe output of scholar.py query into a text file
@@ -23,6 +22,7 @@ input_file='2017_06_22_02_11_PM.txt'
 path = ''.join([base, input_file])
 clean = []
 entries = []
+pairs = []
 
 num_new_articles=1 # allows for a running total display of separate articles
 
@@ -42,3 +42,7 @@ for num, info in enumerate(clean):
     if info.startswith('Title'):
         start_entry = num
         entries.append(start_entry)
+
+## i think the only way to do this this way is if i am catching exceptions regarding going past the end of the list
+for num, info in enumerate(entries):
+    try:
