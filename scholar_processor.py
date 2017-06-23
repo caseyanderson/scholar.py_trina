@@ -29,7 +29,7 @@ num_new_articles=1 # allows for a running total display of separate articles
 f = open(path, 'r')
 results = f.read()
 
-splits = results.splitlines() ## output of scholar.py is separated by newlines, split by newlines and convert to list
+splits = results.splitlines() ## output of scholar.py is split by newlines and converted to a list
 
 ## removing leading and trailing white space from splits
 for i in splits:
@@ -44,5 +44,5 @@ for num, info in enumerate(clean):
         entries.append(start_entry)
 
 ## i think the only way to do this this way is if i am catching exceptions regarding going past the end of the list
-for num, info in enumerate(entries):
-    try:
+# for num, info in enumerate(entries):
+#     try:
