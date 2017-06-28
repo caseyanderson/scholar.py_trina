@@ -5,9 +5,7 @@ usage:
 
 python3 scholar.py --phrase "digital_humanities" > "$(date +"%Y_%m_%d_%I_%M_%p").txt"
 
-
 python3 scholar.py --phrase "gramophone, film, typewriter" > "$(date +"%Y_%m_%d_%I_%M_%p").txt"
-
 
 2. import text file into python, parse to dictionary (view one), then maybe to google doc spreadsheet(view 2)
 
@@ -22,10 +20,11 @@ TODO:
 '''
 
 base = '/Users/mdp/git/scholar.py_trina/'
-input_file='2017_06_28_02_47_PM.txt'
+input_file='2017_06_28_03_57_PM.txt'
 path = ''.join([base, input_file])
 clean = []
-entries = []
+start_entries = []
+end_entries = []
 pairs = []
 # prevstart = 0
 
@@ -46,22 +45,26 @@ for i in splits:
 for num, info in enumerate(clean):
     if info.startswith('Title'):
         start_entry = num
-        entries.append(start_entry)
+        start_entries.append(start_entry)
+
+## gets the end of an entry by searching for empty strings
+for num, info in enumerate(clean):
+    if info == '':
+        end_entry = num
+        end_entries.append(end_entry)
 
 
 ## sets up the list of entry dictionaries
 separated_entries = list( {} for i in entries )
 
-## i seem to have to use range here
+## this makes an index list from start of article to end of article (pulling from clean)
 
-def my_range(start, end, step):
-    while start <= end:
-        print(clean[start])
-        start += step
+def num_sequence(start, end):
+    x = list(range(start, end))
+    return x
 
-for i in entries:
-    x = i
-    my_range(x, x + 8, 1)
+# generates a tuple of start and ends
+zipped = list(zip(start_entries, end_entries))
 
-x = 0
-my_range(entries[x], entries[x] + 8, 1)
+for i,j in zipped:
+    sequences.append(num_sequence(i, j))
