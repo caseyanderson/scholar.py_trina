@@ -5,6 +5,10 @@ usage:
 
 python3 scholar.py --phrase "digital_humanities" > "$(date +"%Y_%m_%d_%I_%M_%p").txt"
 
+
+python3 scholar.py --phrase "gramophone, film, typewriter" > "$(date +"%Y_%m_%d_%I_%M_%p").txt"
+
+
 2. import text file into python, parse to dictionary (view one), then maybe to google doc spreadsheet(view 2)
 
 
@@ -18,12 +22,12 @@ TODO:
 '''
 
 base = '/Users/mdp/git/scholar.py_trina/'
-input_file='2017_06_22_02_11_PM.txt'
+input_file='2017_06_28_02_47_PM.txt'
 path = ''.join([base, input_file])
 clean = []
 entries = []
 pairs = []
-prevstart = 0
+# prevstart = 0
 
 scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Versions', 'Cluster ID', 'Citations list', 'Versions list', 'Excerpt']
 
@@ -49,6 +53,7 @@ for num, info in enumerate(clean):
 separated_entries = list( {} for i in entries )
 
 ## i seem to have to use range here
+
 def my_range(start, end, step):
     while start <= end:
         print(clean[start])
@@ -57,3 +62,6 @@ def my_range(start, end, step):
 for i in entries:
     x = i
     my_range(x, x + 8, 1)
+
+x = 0
+my_range(entries[x], entries[x] + 8, 1)
