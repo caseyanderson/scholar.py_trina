@@ -67,4 +67,11 @@ def num_sequence(start, end):
 zipped = list(zip(start_entries, end_entries))
 
 for i,j in zipped:
-    sequences.append(num_sequence(i, j))
+    sequences.append(list(num_sequence(i, j)))
+
+## this breaks up the sequences so they can be iterated through later, this will build the dictionaries
+for i in sequences:
+    blah = list(i)
+    for j in blah:
+        print(j)
+        sleep(1)
