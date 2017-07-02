@@ -71,7 +71,7 @@ for i,j in zipped:
     sequences.append(list(num_sequence(i, j)))
 
 ## iterates through number sequences per entry, splits by article, checks to see which tags are used and formats dictionary properly
-## this works but somehow citation list gets counted twice
+
 for num, info in enumerate(sequences):
     the_range = list(info)
     for j in the_range:
@@ -79,7 +79,7 @@ for num, info in enumerate(sequences):
             if clean[j].startswith(k):
                 blah = clean[j].split(k)
                 entry = blah[1].strip()
-                if entry.startswith('list'):
+                if entry.startswith('list'): # this is the best i could come up with for fixing the overwriting problem
                     fix_key=' '.join([k, 'list'])
                     remaining = entry.split('list')
                     separated_entries[num][fix_key] = remaining[1].strip()
