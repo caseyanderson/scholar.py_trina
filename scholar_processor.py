@@ -27,8 +27,8 @@ end_entries = []
 pairs = []
 sequences=[]
 
-#scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Versions', 'Cluster ID', 'Citations list', 'Versions list' 'Excerpt']
-scholar_fields = ['Title', 'URL', 'Year', 'Citations list', 'Excerpt']
+scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Versions', 'Cluster ID', 'Citations list', 'Versions list' 'Excerpt']
+#scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Citations list', 'Excerpt']
 
 
 f = open(path, 'r')
@@ -78,8 +78,10 @@ for num, info in enumerate(sequences):
         for k in scholar_fields:
             if clean[j].startswith(k):
                 blah = clean[j].split(k)
-                entry = blah[1]
-                separated_entries[num][str(k)]=entry
-
-## having some problem with Citations list info overwriting Citations somehow so just adding Citations info on a second pass
-## this happens with Versions and Versions list too...not sure why
+                entry = blah[1].strip()
+                if entry.startswith('list'):
+                    fix_key=' '.join([k, 'list'])
+                    remaining = entry.split('list')
+                    separated_entries[num][fix_key] = remaining[1].strip()
+                else:
+                    separated_entries[num][str(k)]=entry
