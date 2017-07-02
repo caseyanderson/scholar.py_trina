@@ -67,19 +67,20 @@ def num_sequence(start, end):
 # combines start and end list into one tuple
 zipped = list(zip(start_entries, end_entries))
 
+
 for i,j in zipped:
     sequences.append(list(num_sequence(i, j)))
 
-## iterates through number sequences per entry, splits by article, checks to see which tags are used and formats dictionary properly
+## iterates through number sequences per entry, splits by article, checks to see which tags are used and formats dictionary
 
 for num, info in enumerate(sequences):
-    the_range = list(info)
+    the_range = list(info)      ## get the article indices from start to end to slice clean
     for j in the_range:
         for k in scholar_fields:
-            if clean[j].startswith(k):
+            if clean[j].startswith(k):  ## which tag is this?
                 blah = clean[j].split(k)
-                entry = blah[1].strip()
-                if entry.startswith('list'): # this is the best i could come up with for fixing the overwriting problem
+                entry = blah[1].strip() ## the info without the tag
+                if entry.startswith('list'):        ## fix overwriting problem
                     fix_key=' '.join([k, 'list'])
                     remaining = entry.split('list')
                     separated_entries[num][fix_key] = remaining[1].strip()
