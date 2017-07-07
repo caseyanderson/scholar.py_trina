@@ -27,7 +27,7 @@ end_entries = []
 pairs = []
 sequences=[]
 
-#scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Versions', 'Cluster ID', 'Citations list', 'Versions list' 'Excerpt']
+#scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Versions', 'Cluster ID', 'Citations list', 'Versions list', 'Excerpt']
 scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Citations list', 'Excerpt']
 
 
