@@ -47,12 +47,16 @@ for num, info in enumerate(clean):
     if info.startswith('Title'):
         start_entry = num
         start_entries.append(start_entry)
-
-## gets the end of an entry by searching for empty strings
-for num, info in enumerate(clean):
-    if info == '':
+    elif info == '':
         end_entry = num
         end_entries.append(end_entry)
+
+
+# ## gets the end of an entry by searching for empty strings
+# for num, info in enumerate(clean):
+#     if info == '':
+#         end_entry = num
+#         end_entries.append(end_entry)
 
 
 ## sets up the list of entry dictionaries
