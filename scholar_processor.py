@@ -27,8 +27,8 @@ end_entries = []
 pairs = []
 sequences=[]
 
-scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Versions', 'Cluster ID', 'Citations list', 'Versions list' 'Excerpt']
-#scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Citations list', 'Excerpt']
+#scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Versions', 'Cluster ID', 'Citations list', 'Versions list' 'Excerpt']
+scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Citations list', 'Excerpt']
 
 
 f = open(path, 'r')
@@ -47,16 +47,12 @@ for num, info in enumerate(clean):
     if info.startswith('Title'):
         start_entry = num
         start_entries.append(start_entry)
-    elif info == '':
+
+## gets the end of an entry by searching for empty strings
+for num, info in enumerate(clean):
+    if info == '':
         end_entry = num
         end_entries.append(end_entry)
-
-
-# ## gets the end of an entry by searching for empty strings
-# for num, info in enumerate(clean):
-#     if info == '':
-#         end_entry = num
-#         end_entries.append(end_entry)
 
 
 ## sets up the list of entry dictionaries
@@ -77,13 +73,22 @@ for i,j in zipped:
 
 ## iterates through number sequences per entry, splits by article, checks to see which tags are used and formats dictionary
 
+
 for num, info in enumerate(sequences):
     the_range = list(info)      ## get the article indices from start to end to slice clean
     for j in the_range:
         for k in scholar_fields:
             if clean[j].startswith(k):  ## which tag is this?
+                # print()
+                # print()
+                # msg = ' '.join(['clean at', str(j), 'starts with', clean[j]])
+                # print(msg)
                 blah = clean[j].split(k)
+                #print(str(blah))
+                #sleep(1)
                 entry = blah[1].strip() ## the info without the tag
+                #print(str(entry))
+                #sleep(1)
                 if entry.startswith('list'):        ## fix overwriting problem
                     fix_key=' '.join([k, 'list'])
                     remaining = entry.split('list')
