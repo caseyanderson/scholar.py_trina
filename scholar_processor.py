@@ -32,6 +32,8 @@ scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Citations list', 'Excerp
 
 
 f = open(path, 'r')
+
+# does doing line 34 and 37 simltaneously result in the excerpt error?
 results = f.read()
 
 splits = results.splitlines() ## output of scholar.py is split by newlines and converted to a list
