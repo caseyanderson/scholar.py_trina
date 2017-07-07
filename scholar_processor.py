@@ -41,19 +41,14 @@ for i in splits:
     cleaned = i.strip()
     clean.append(cleaned)
 
-## gets the start of a new entry by searching for list items that begin with 'Title'
-## end entry is start_entry - 1
+
 for num, info in enumerate(clean):
     if info.startswith('Title'):
         start_entry = num
         start_entries.append(start_entry)
-
-## gets the end of an entry by searching for empty strings
-for num, info in enumerate(clean):
-    if info == '':
+    elif info == '':
         end_entry = num
         end_entries.append(end_entry)
-
 
 ## sets up the list of entry dictionaries
 separated_entries = list( {} for i in start_entries )
@@ -79,16 +74,8 @@ for num, info in enumerate(sequences):
     for j in the_range:
         for k in scholar_fields:
             if clean[j].startswith(k):  ## which tag is this?
-                # print()
-                # print()
-                # msg = ' '.join(['clean at', str(j), 'starts with', clean[j]])
-                # print(msg)
                 blah = clean[j].split(k)
-                #print(str(blah))
-                #sleep(1)
                 entry = blah[1].strip() ## the info without the tag
-                #print(str(entry))
-                #sleep(1)
                 if entry.startswith('list'):        ## fix overwriting problem
                     fix_key=' '.join([k, 'list'])
                     remaining = entry.split('list')
