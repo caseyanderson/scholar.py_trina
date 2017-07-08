@@ -27,8 +27,8 @@ end_entries = []
 pairs = []
 sequences=[]
 
-#scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Versions', 'Cluster ID', 'Citations list', 'Versions list', 'Excerpt']
-scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Citations list', 'Excerpt']
+scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Versions', 'Cluster ID', 'Citations list', 'Versions list', 'Excerpt']
+#scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Citations list', 'Excerpt']
 
 
 f = open(path, 'r')
@@ -69,7 +69,6 @@ for i,j in zipped:
     sequences.append(list(num_sequence(i, j)))
 
 ## iterates through number sequences per entry, splits by article, checks to see which tags are used and formats dictionary
-
 
 for num, info in enumerate(sequences):
     the_range = list(info)      ## get the article indices from start to end to slice clean
