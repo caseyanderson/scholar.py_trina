@@ -27,14 +27,16 @@ end_entries = []
 pairs = []
 sequences=[]
 
-scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Versions', 'Cluster ID', 'Citations list', 'Versions list', 'Excerpt']
-#scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Citations list', 'Excerpt']
+#scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Versions', 'Cluster ID', 'Citations list', 'Versions list', 'Excerpt']
+scholar_fields = ['Title', 'URL', 'Year', 'Citations', 'Citations list', 'Excerpt']
 
+def readfile(path):
+    f = open(path, 'r')
+    results = f.read()
+    return results
 
-f = open(path, 'r')
+results = readfile(path)
 
-# does doing line 34 and 37 simltaneously result in the excerpt error?
-results = f.read()
 
 splits = results.splitlines() ## output of scholar.py is split by newlines and converted to a list
 
@@ -42,6 +44,7 @@ splits = results.splitlines() ## output of scholar.py is split by newlines and c
 for i in splits:
     cleaned = i.strip()
     clean.append(cleaned)
+
 
 
 for num, info in enumerate(clean):
