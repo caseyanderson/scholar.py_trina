@@ -48,6 +48,18 @@ for h, i in enumerate(second_layer): # for each url
     # print()
     # print()
     if i != '':
+        for a in i.find_all('div', class_='gs_r'):
+            print(''.join([str(a), '\n', '\n']))
+            sleep(4)
+            second_layer_results[h].append(a)
+    else:
+        second_layer_results[h] = ''
+
+
+
+
+
+
         for j in i:
             for a in j.find_all('div', class_='gs_r'): # get each entry (max 10)
                 print(' '.join(['entry number', str(num), '\n']))
