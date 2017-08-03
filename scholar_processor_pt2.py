@@ -7,6 +7,7 @@ getting the nested citation lists...
 
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
+from time import sleep
 
 
 def google2soup(link):
@@ -29,22 +30,30 @@ for num, info in enumerate(separated_entries):
         # if there is a citation number, get the url from citations list and make a new soup object
         url = info['Citations list']
         second_layer.append(google2soup(url))
-        sleep(2)
+        sleep(4) ## i end up with 11 if i remove this?
     else:
         # print(''.join(['No citation', ' at position ', str(num), '\n']))
         second_layer.append('')
 
 
- ## breaks apart each citation list
-second_layer_results = [[0 for x in range(len(second_layer))] for y in range(len(second_layer))]
+## storing second layer results here for processing after making a this
+
+second_layer_results = x = [['' for i in range(1)] for j in range(10)]
+
+
+## this thing below is not totally working but is in the right direction i believe
 
 for h, i in enumerate(second_layer): # for each url
     # print(' '.join(['article number', str(h), '\n']))
     # print()
     # print()
     if i != '':
-        for num, info in enumerate(i.find_all('div', class_='gs_r')): # get each entry (max 10)
-            print(' '.join(['entry number', str(num), '\n']))
+        for j in i:
+            for a in j.find_all('div', class_='gs_r'): # get each entry (max 10)
+                print(' '.join(['entry number', str(num), '\n']))
+                second_layer_results[h].append(j)
+    else:
+        second_layer_results[h] = ''
 
             # print(info)
             # print()
