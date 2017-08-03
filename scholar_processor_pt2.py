@@ -41,7 +41,7 @@ for num, info in enumerate(separated_entries):
 second_layer_results = x = [['' for i in range(1)] for j in range(10)]
 
 
-## this thing below is not totally working but is in the right direction i believe
+## if the second layer is empty for a list item that means that that article should have 0 citations
 
 for h, i in enumerate(second_layer): # for each url
     # print(' '.join(['article number', str(h), '\n']))
@@ -50,7 +50,7 @@ for h, i in enumerate(second_layer): # for each url
     if i != '':
         for a in i.find_all('div', class_='gs_r'):
             print(''.join([str(a), '\n', '\n']))
-            sleep(4)
+            # sleep(4)
             second_layer_results[h].append(a)
     else:
         second_layer_results[h] = ''
@@ -58,7 +58,7 @@ for h, i in enumerate(second_layer): # for each url
 
 
 
-
+############### below is broken
 
         for j in i:
             for a in j.find_all('div', class_='gs_r'): # get each entry (max 10)
