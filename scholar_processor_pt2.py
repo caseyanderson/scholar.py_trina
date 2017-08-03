@@ -50,12 +50,13 @@ for h, i in enumerate(second_layer): # for each url
     if i != '':
         for a in i.find_all('div', class_='gs_r'):
             print(''.join([str(a), '\n', '\n']))
-            # sleep(4)
+            sleep(4)
             second_layer_results[h].append(a)
     else:
         second_layer_results[h] = ''
 
 
+### parse and combine with separated entries below
 
 
 ############### below is broken
