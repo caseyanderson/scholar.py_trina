@@ -57,18 +57,3 @@ for h, i in enumerate(second_layer): # for each url
 
 
 ### parse and combine with separated entries below
-
-
-############### below is broken
-
-        for j in i:
-            for a in j.find_all('div', class_='gs_r'): # get each entry (max 10)
-                print(' '.join(['entry number', str(num), '\n']))
-                second_layer_results[h].append(j)
-    else:
-        second_layer_results[h] = ''
-
-            # print(info)
-            # print()
-            # print()
-            # sleep(2)
