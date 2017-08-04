@@ -56,4 +56,22 @@ for h, i in enumerate(second_layer): # for each url
         second_layer_results[h] = ''
 
 
+
+
 ### parse and combine with separated entries below
+
+for h, i in enumerate(second_layer_results[0]):
+    if i != '':
+        print(''.join(['step ', str(h), '\n', '\n', str(i), '\n', '\n']))
+        # sleep(4)
+
+
+
+
+
+## gets all titles from second layer
+
+for h, i in enumerate(second_layer_results[0]):
+    if i != '':
+        for a in i.find_all('h3', class_= 'gs_rt'):
+            print(''.join([str(a), '\n', '\n' ]))
