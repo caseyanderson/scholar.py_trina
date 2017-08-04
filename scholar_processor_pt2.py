@@ -63,21 +63,10 @@ for h, i in enumerate(second_layer): # for each url
 for h, i in enumerate(second_layer_results[0]):
     if i != '':
         print(''.join(['step ', str(h), '\n', '\n', str(i), '\n', '\n']))
-        # sleep(4)
+        sleep(4)
+
 
 ## gets all titles from second layer
-
-title_stash = x = [['' for i in range(1)] for j in range(10)]
-
-for h, i in enumerate(second_layer_results[0]):
-    if i != '':
-        for a in i.find_all('h3', class_= 'gs_rt'):
-            for x in a.find_all('a'):
-                print(''.join([str(x), '\n', '\n' ]))
-                title_stash.append(x.contents)
-
-
-## make the above work for all of second_layer_results
 
 title_stash = x = [['' for i in range(1)] for j in range(10)]
 
@@ -87,6 +76,37 @@ for h, i in enumerate(second_layer_results):
             if x != '':
                 for a in x.find_all('h3', class_= 'gs_rt'):
                     for y in a.find_all('a'):
-                        print(''.join([str(y.contents), '\n', '\n' ]))
+                        print(''.join(['2nd layer result number ', str(h), '\n', '\n', str(y.contents), '\n', '\n' ]))
                         title_stash[h].append(y.contents)
                         sleep(1)
+
+
+## get all citation numbers
+
+citation_stash = x = [['' for i in range(1)] for j in range(10)]
+
+for h, i in enumerate(second_layer_results):
+    if i != '':
+        for x in i:
+            if x != '':
+                for a in x.find_all('div', class_='gs_fl'):
+                    for y in a.find('a'):
+                        if 'Cited' in y:
+                            print(''.join(['2nd layer result number ', str(h), '\n', '\n', str(y), '\n', '\n']))    # i should be able to get the citation url here too i think
+                            sleep(2)
+
+
+## gets all authors and year from second layer
+
+author_stash = x = [['' for i in range(1)] for j in range(10)]
+
+for h, i in enumerate(second_layer_results):
+    if i != '':
+        for x in i:
+            if x != '':
+                for a in x.find_all('div', class_='gs_a'):
+                    #print(''.join(['2nd layer result number ', str(h), '\n', '\n', str(a.contents), '\n', '\n']))
+                    author_stash[h].append(a.contents)
+                    sleep(1)
+
+## author stash processor (makes results a string, puts in dict or whatever)
