@@ -58,20 +58,35 @@ for h, i in enumerate(second_layer): # for each url
 
 
 
-### parse and combine with separated entries below
+### parse and combine with separated entries below, this was just a test
 
 for h, i in enumerate(second_layer_results[0]):
     if i != '':
         print(''.join(['step ', str(h), '\n', '\n', str(i), '\n', '\n']))
         # sleep(4)
 
-
-
-
-
 ## gets all titles from second layer
+
+title_stash = x = [['' for i in range(1)] for j in range(10)]
 
 for h, i in enumerate(second_layer_results[0]):
     if i != '':
         for a in i.find_all('h3', class_= 'gs_rt'):
-            print(''.join([str(a), '\n', '\n' ]))
+            for x in a.find_all('a'):
+                print(''.join([str(x), '\n', '\n' ]))
+                title_stash.append(x.contents)
+
+
+## make the above work for all of second_layer_results
+
+title_stash = x = [['' for i in range(1)] for j in range(10)]
+
+for h, i in enumerate(second_layer_results):
+    if i != '':
+        for x in i:
+            if x != '':
+                for a in x.find_all('h3', class_= 'gs_rt'):
+                    for y in a.find_all('a'):
+                        print(''.join([str(y.contents), '\n', '\n' ]))
+                        title_stash[h].append(y.contents)
+                        sleep(1)
