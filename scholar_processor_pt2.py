@@ -126,13 +126,20 @@ for h, i in enumerate(second_layer_results):
                     #print(''.join(['2nd layer result number ', str(h), '\n', '\n', str(a.contents), '\n', '\n']))
                     author_year_stash[h].append(a.contents)
 
-## get all authors
-
+## dear lord this one is tough...gotta split this up and write to a text file, manually fix author names, and then bring back into python
 
 for h, i in enumerate(author_year_stash):
     if i != '':
         for x in i:
             for e in x:
                 blah = ''.join(e)
-                blah = blah.strip()
-                print(''.join([str(blah), '\n', '\n']))
+                splits = blah.split(' - ')
+                for a in splits:
+                    if isinstance(a, str) is False:
+                        print(''.join([str(a.contents), '\n','\n']))
+                        sleep(2)
+                    else:
+                        print(''.join([str(a), '\n','\n']))
+                        sleep(2)
+
+# authors = x = [['' for i in range(1)] for j in range(10)]
