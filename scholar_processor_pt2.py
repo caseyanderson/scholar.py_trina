@@ -128,6 +128,10 @@ for h, i in enumerate(second_layer_results):
 
 ## dear lord this one is tough...gotta split this up and write to a text file, manually fix author names, and then bring back into python
 
+outputFile = '/Users/mdp/git/scholar.py_trina/author_fix.txt'
+
+thefile = open(outputFile, 'w')
+
 for h, i in enumerate(author_year_stash):
     if i != '':
         for x in i:
@@ -136,10 +140,13 @@ for h, i in enumerate(author_year_stash):
                 splits = blah.split(' - ')
                 for a in splits:
                     if isinstance(a, str) is False:
-                        print(''.join([str(a.contents), '\n','\n']))
-                        sleep(2)
+                        out = ''.join([str(h), '\n', str(a.contents), '\n','\n'])
+                        thefile.write(out)
                     else:
-                        print(''.join([str(a), '\n','\n']))
-                        sleep(2)
+                        out = ''.join([str(h), '\n', str(a), '\n','\n'])
+                        thefile.write(out)
+
+thefile.close()
+
 
 # authors = x = [['' for i in range(1)] for j in range(10)]
