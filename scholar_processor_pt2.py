@@ -66,7 +66,7 @@ for h, i in enumerate(second_layer_results[0]):
         sleep(4)
 
 
-## gets all titles from second layer
+## gets all titles from second layer, done
 
 title_stash = x = [['' for i in range(1)] for j in range(10)]
 
@@ -81,7 +81,7 @@ for h, i in enumerate(second_layer_results):
                         sleep(1)
 
 
-## get all citation numbers
+## get all citation numbers, done
 
 citation_stash = x = [['' for i in range(1)] for j in range(10)]
 
@@ -93,12 +93,30 @@ for h, i in enumerate(second_layer_results):
                     for y in a.find('a'):
                         if 'Cited' in y:
                             print(''.join(['2nd layer result number ', str(h), '\n', '\n', str(y), '\n', '\n']))    # i should be able to get the citation url here too i think
+                            citation_stash[h].append(y)
                             sleep(2)
 
+## get all citation urls, done
+
+url_stash = x = [['' for i in range(1)] for j in range(10)]
+
+for h, i in enumerate(second_layer_results):
+    if i != '':
+        for x in i:
+            if x != '':
+                for a in x.find_all('div', class_='gs_fl'):
+                    link = a.find('a')['href']
+                    if 'cites' in link:
+#                        print(link)
+                        # print(''.join(['2nd layer result number ', str(h), '\n', '\n', str(link), '\n', '\n']))
+                        url_stash[h].append(link)
+                        sleep(1)
+                    else:
+                        print('skip!')
 
 ## gets all authors and year from second layer
 
-author_stash = x = [['' for i in range(1)] for j in range(10)]
+author_year_stash = x = [['' for i in range(1)] for j in range(10)]
 
 for h, i in enumerate(second_layer_results):
     if i != '':
@@ -106,7 +124,15 @@ for h, i in enumerate(second_layer_results):
             if x != '':
                 for a in x.find_all('div', class_='gs_a'):
                     #print(''.join(['2nd layer result number ', str(h), '\n', '\n', str(a.contents), '\n', '\n']))
-                    author_stash[h].append(a.contents)
-                    sleep(1)
+                    author_year_stash[h].append(a.contents)
 
-## author stash processor (makes results a string, puts in dict or whatever)
+## get all authors
+
+
+for h, i in enumerate(author_year_stash):
+    if i != '':
+        for x in i:
+            for e in x:
+                blah = ''.join(e)
+                blah = blah.strip()
+                print(''.join([str(blah), '\n', '\n']))
