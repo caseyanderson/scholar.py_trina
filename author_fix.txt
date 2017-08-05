@@ -1,4 +1,4 @@
-0
+0,0
 G Rose
 
 0
@@ -7,7 +7,7 @@ G Rose
 0
 books.google.com
 
-0
+0,1
 S Brown, M den Heyer, DR Black
 
 0
@@ -16,7 +16,7 @@ S Brown, M den Heyer, DR Black
 0
 oapen.org
 
-0
+0,2
 T Boellstorff
 
 0
@@ -25,7 +25,7 @@ T Boellstorff
 0
 books.google.com
 
-0
+0,3
 J Sterne
 
 0
@@ -34,7 +34,7 @@ J Sterne
 0
 books.google.com
 
-0
+0,4
 HT Lehmann
 
 0
@@ -43,7 +43,7 @@ HT Lehmann
 0
 books.google.com
 
-0
+0,5
 J Van Dijck
 
 0
@@ -52,7 +52,7 @@ J Van Dijck
 0
 books.google.com
 
-0
+0,6
 L Gitelman
 
 0
@@ -61,11 +61,8 @@ L Gitelman
 0
 composingdigitalmedia.org
 
-0
+0,7
 CM Kelty
-
-0
-
 
 0
 2008
@@ -73,7 +70,7 @@ CM Kelty
 0
 books.google.com
 
-0
+0,8
 NK Hayles
 
 0
@@ -82,7 +79,7 @@ NK Hayles
 0
 books.google.com
 
-0
+0,9
 AR Galloway, E Thacker
 
 0
@@ -91,11 +88,8 @@ AR Galloway, E Thacker
 0
 books.google.com
 
-1
+1,0
 CM Kelty
-
-1
-
 
 1
 2008
@@ -103,11 +97,8 @@ CM Kelty
 1
 books.google.com
 
-1
+1,2
 D Porter
-
-1
-
 
 1
 2013
@@ -115,7 +106,7 @@ D Porter
 1
 books.google.com
 
-1
+1,3
 M Clayton, T Herbert, R Middleton
 
 1
@@ -124,7 +115,7 @@ M Clayton, T Herbert, R Middleton
 1
 books.google.com
 
-1
+1,4
 M Poster
 
 1
@@ -133,11 +124,8 @@ M Poster
 1
 journals.sagepub.com
 
-1
+1,5
 D Berry
-
-1
-
 
 1
 2016
@@ -145,7 +133,7 @@ D Berry
 1
 books.google.com
 
-1
+1,6
 R Luckhurst
 
 1
@@ -154,7 +142,7 @@ R Luckhurst
 1
 books.google.com
 
-1
+1,7
 T Lenoir
 
 1
@@ -163,11 +151,8 @@ T Lenoir
 1
 books.google.com
 
-1
+1,8
 K Fitzpatrick
-
-1
-
 
 1
 2006
@@ -175,7 +160,7 @@ K Fitzpatrick
 1
 muse.jhu.edu
 
-1
+1,8
 JD Peters
 
 1
@@ -184,7 +169,7 @@ JD Peters
 1
 journals.sagepub.com
 
-1
+1,9
 M Burnett
 
 1
@@ -193,7 +178,7 @@ M Burnett
 1
 books.google.com
 
-2
+2,0
 E Thacker
 
 2
@@ -202,7 +187,7 @@ E Thacker
 2
 books.google.com
 
-2
+2,1
 D Fisher
 
 2
@@ -211,7 +196,7 @@ D Fisher
 2
 Wiley Online Library
 
-2
+2,2
 S Halliday
 
 2
@@ -220,7 +205,7 @@ S Halliday
 2
 books.google.com
 
-2
+2,3
 L Brake
 
 2
@@ -229,7 +214,7 @@ L Brake
 2
 muse.jhu.edu
 
-2
+2,4
 N Schantz
 
 2
@@ -238,7 +223,7 @@ N Schantz
 2
 fq.ucpress.edu
 
-2
+2,5
 M Gallope
 
 2
@@ -247,7 +232,7 @@ M Gallope
 2
 books.google.com
 
-2
+2,6
 Н Костенко
 
 2
@@ -256,19 +241,19 @@ books.google.com
 2
 irbis-nbuv.gov.ua
 
-2
+2,7
 JB De Miranda
 
 2
 2008
 
-2
+2,8
 JG Bruhn, HM Rebach
 
 2
 1996
 
-2
+2,9
 Springer, C Mitchell
 
 2
@@ -277,7 +262,7 @@ Springer, C Mitchell
 2
 digitool.library.mcgill.ca
 
-6
+6,0
 NK Hayles
 
 6
@@ -286,7 +271,7 @@ NK Hayles
 6
 books.google.com
 
-6
+6,1
 S Brown, M den Heyer, DR Black
 
 6
@@ -295,7 +280,7 @@ S Brown, M den Heyer, DR Black
 6
 oapen.org
 
-6
+6,2
 J Der Derian
 
 6
@@ -304,7 +289,7 @@ J Der Derian
 6
 books.google.com
 
-6
+6,3
 A Gupta
 
 6
@@ -313,7 +298,7 @@ A Gupta
 6
 books.google.com
 
-6
+6,4
 B LaBelle
 
 6
@@ -322,7 +307,7 @@ B LaBelle
 6
 books.google.com
 
-6
+6,5
 J Dean
 
 6
@@ -331,7 +316,7 @@ J Dean
 6
 books.google.com
 
-6
+6,6
 J Farman
 
 6
@@ -340,7 +325,7 @@ J Farman
 6
 books.google.com
 
-6
+6,7
 E Huhtamo, J Parikka
 
 6
@@ -349,7 +334,7 @@ E Huhtamo, J Parikka
 6
 books.google.com
 
-6
+6,8
 R Luckhurst
 
 6
@@ -358,7 +343,7 @@ R Luckhurst
 6
 books.google.com
 
-6
+6,9
 R Middleton
 
 6
@@ -367,7 +352,7 @@ R Middleton
 6
 books.google.com
 
-8
+8,0
 S Helmreich
 
 8
@@ -376,7 +361,7 @@ S Helmreich
 8
 Wiley Online Library
 
-8
+8,1
 MMJ Fischer
 
 8
@@ -385,7 +370,7 @@ MMJ Fischer
 8
 Wiley Online Library
 
-8
+8,2
 L Kunreuther
 
 8
@@ -394,7 +379,7 @@ L Kunreuther
 8
 Wiley Online Library
 
-8
+8,3
 SA Oushakine
 
 8
@@ -403,7 +388,7 @@ SA Oushakine
 8
 Wiley Online Library
 
-8
+8,4
 RS Fortner
 
 8
@@ -412,7 +397,7 @@ RS Fortner
 8
 books.google.com
 
-8
+8,5
 N Pazderic
 
 8
@@ -421,7 +406,7 @@ N Pazderic
 8
 Wiley Online Library
 
-8
+8,6
 L Kunreuther
 
 8
@@ -430,7 +415,7 @@ L Kunreuther
 8
 Wiley Online Library
 
-8
+8,7
 B Larkin
 
 8
@@ -439,7 +424,7 @@ B Larkin
 8
 muse.jhu.edu
 
-8
+8,8
 J Packer, J Reeves
 
 8
@@ -448,7 +433,7 @@ J Packer, J Reeves
 8
 cjc-online.ca
 
-8
+8,9
 B Mak
 
 8
@@ -457,7 +442,7 @@ B Mak
 8
 Wiley Online Library
 
-9
+9,0
 L Gitelman
 
 9
@@ -466,7 +451,7 @@ L Gitelman
 9
 composingdigitalmedia.org
 
-9
+9,1
 B Clarke
 
 9
@@ -475,7 +460,7 @@ B Clarke
 9
 books.google.com
 
-9
+9,2
 N Friesen, T Hug
 
 9
@@ -484,7 +469,7 @@ N Friesen, T Hug
 9
 academia.edu
 
-9
+9,3
 BD Geoghegan
 
 9
@@ -493,7 +478,7 @@ Theory, Culture & Society, 2013
 9
 journals.sagepub.com
 
-9
+9,4
 JA Suárez
 
 9
@@ -502,7 +487,7 @@ JA Suárez
 9
 muse.jhu.edu
 
-9
+9,5
 T Streeter
 
 9
@@ -511,7 +496,7 @@ Critical Inquiry, 2005
 9
 journals.uchicago.edu
 
-9
+9,6
 R Drew
 
 9
@@ -520,7 +505,7 @@ R Drew
 9
 books.google.com
 
-9
+9,7
 G Partington
 
 9
@@ -529,13 +514,13 @@ G Partington
 9
 JSTOR
 
-9
+9,8
 L Manovich
 
 9
 2008
 
-9
+9,9
 G Winthrop-Young
 
 9
