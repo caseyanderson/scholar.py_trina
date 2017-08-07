@@ -140,7 +140,7 @@ for h, i in enumerate(author_year_stash):
                 splits = blah.split(' - ')
                 for a in splits:
                     if isinstance(a, str) is False:
-                        out = ''.join([str(h), '\n', str(a.contents), '\n','\n'])
+                        out = ''.join([str(h), '\n', str(a.get_text()), '\n','\n'])
                         thefile.write(out)
                     else:
                         out = ''.join([str(h), '\n', str(a), '\n','\n'])
@@ -148,5 +148,63 @@ for h, i in enumerate(author_year_stash):
 
 thefile.close()
 
+## do the rest by hand for authors
 
-# authors = x = [['' for i in range(1)] for j in range(10)]
+## get all excerpts
+
+
+excerpt_stash = x = [['' for i in range(1)] for j in range(10)]
+
+for h, i in enumerate(second_layer_results):
+    if i != '':
+        for x in i:
+            if x != '':
+                for a in x.find_all('div', class_='gs_rs'):
+                    print(''.join(['2nd layer result number ', str(h), '\n', '\n', str(a.get_text()), '\n', '\n']))
+                    excerpt_stash[h].append(a.get_text())
+                    sleep(2)
+
+### example of how to set this up manually
+
+## get rid of empty result at 0
+
+excerpt_stash[0].pop(0)
+
+## make a list of dictionaries for every result in separated_entries
+separated_entries[0]['second_layer' ] = list( {} for i in title_stash[0])
+
+step = 9
+for y, x in enumerate(title_stash[step]):
+    title = ''.join(x)
+    separated_entries[step]['second_layer'][y]['Title'] = title
+
+
+step = 9
+for y, x in enumerate(url_stash[step]):
+    info = ''.join(['https://scholar.google.com', str(x)])
+    separated_entries[step]['second_layer'][y]['Citation list'] = info
+
+step = 9
+for y, x in enumerate(excerpt_stash[step]):
+    if x != '':
+        info = ''.join(x)
+        separated_entries[step]['second_layer'][y]['Excerpt'] = info
+
+step = 9
+for y, x in enumerate(citation_stash[step]):
+    if x != '':
+        info = ''.join(x)
+        separated_entries[step]['second_layer'][y]['Citations'] = info
+
+step = 9
+for y, x in enumerate(clean_author_stash[step]):
+    if x != '':
+        info = ''.join(x)
+        separated_entries[step]['second_layer'][y]['Author'] = info
+
+
+step = 9
+for y, x in enumerate(clean_year_stash[step]):
+    if x != '':
+        info = ''.join(x)
+        separated_entries[step]['second_layer'][y]['Year'] = info
