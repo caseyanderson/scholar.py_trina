@@ -11,7 +11,7 @@ def readfile(path):
     return results
 
 
-## write contents (data) to a file at path
+## write contents of list (data) to a file at path
 def writeFile(path, data):
     outputFile = str(path)
     thefile = open(outputFile, 'w')
