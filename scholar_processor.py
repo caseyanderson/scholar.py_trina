@@ -41,9 +41,9 @@ results = readfile(path)
 splits = results.splitlines() ## output of scholar.py is split by newlines and converted to a list
 
 ## removing leading and trailing white space from splits
-for i in splits:
-    cleaned = i.strip()
-    clean.append(cleaned)
+for h,i in enumerate(splits):
+    i = i.strip()
+    splits[h] = i
 
 
 

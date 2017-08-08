@@ -32,7 +32,7 @@ for x, y in enumerate(content):
     content[(x*3)] = content[(x*3)][:1]
 
 ## divide into chunks
-chunks = [content[x:x+3] for x in range(0, len(content), 3)]
+chunks = [content[x:x+num] for x in range(0, len(content), num)]
 
 ## now that this is in chunks, look at first item of each chunk to get entry number
 
