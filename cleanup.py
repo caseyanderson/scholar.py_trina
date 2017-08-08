@@ -18,12 +18,13 @@ def writeFile(path, data):
     data = list(data)
 
     for i in data:
-        out = ''.join([ str(i), '\n', '\n' ])
+        out = ''.join([ str(i), '\n' ])
         thefile.write(out)
 
     thefile.close()
 
 
+## outputs a list of a number sequence from start to end
 def num_sequence(start, end):
     x = list(range(start, end))
     return x

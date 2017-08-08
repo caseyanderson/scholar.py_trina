@@ -152,7 +152,6 @@ thefile.close()
 
 ## get all excerpts
 
-
 excerpt_stash = x = [['' for i in range(1)] for j in range(10)]
 
 for h, i in enumerate(second_layer_results):
