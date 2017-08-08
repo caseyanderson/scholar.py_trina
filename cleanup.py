@@ -33,7 +33,7 @@ def num_sequence(start, end):
 ## takes a list (content) and divides it into sublists of size chunk (num)
 def chunks(content, num):
     data = list(content)
-    numChunks = int(chunk)
+    numChunks = int(num)
     processed = [data[x:x+numChunks] for x in range(0, len(data), numChunks)]
     return list(processed)
 
