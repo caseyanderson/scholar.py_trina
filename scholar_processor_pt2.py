@@ -10,6 +10,7 @@ from urllib.request import Request, urlopen
 from time import sleep
 
 
+
 def google2soup(link):
     req = Request(link, headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read()

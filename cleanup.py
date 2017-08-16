@@ -2,7 +2,9 @@
 
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
+import re
 from time import sleep
+
 
 ## read a file at path and return contents of the file
 def readfile(path):
@@ -68,3 +70,50 @@ def searchResultCategory(data):
             ## do the stuff
             output.append(i)
     return output
+
+
+## takes a soup object as input and returns first ten google scholar result articles, can be reused on subsequent pages to get more results
+
+def parseArticles(data):
+    results = data.find_all('div', class_='gs_r')
+    return results
+
+# scholar_fields = ['Title', 'Author', 'URL', 'Year', 'Citations', 'Citations list', 'Excerpt']
+
+
+def parseArticleResultField(data, g_field):
+    g_field = str(g_field)
+    results = list()
+    if data != list:
+        data = list(data)
+
+        for x in data:  # i probably need to make something that skips the results that break the code...look for [Citation]
+            if x != '':
+                if g_field == 'title':
+                    for a in x.find_all('h3', class_='gs_rt'):
+                        for y in a.find_all('a'):
+                            title = y.get_text()
+                            results.append(title)
+                # author goes here
+                elif g_field == 'url':
+                    for a in x.find_all('h3', class_='gs_rt'):
+
+                        results.append(a)
+                elif g_field == 'year':
+                    for a in x.find_all('div', class_='gs_a'):
+                        blah = a.get_text()
+                        year = re.search(r"(\d{4})", blah).group(1)
+                        results.append(year)
+                elif g_field == 'excerpt':
+                    for a in x.find_all('div', class_='gs_rs'):
+                        url = a.get_text()
+                        results.append(url)
+                # elif g_field == 'author':
+                #     for a in x.find_all('div', class_='gs_a'):
+                #             blah = a.get_text()
+                #             blah = blah.split(' - ')
+                #             results.append(blah)
+            else:
+                results.append('n/a')
+
+        return results
