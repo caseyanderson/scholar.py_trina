@@ -1,5 +1,5 @@
 '''
-parsing google scholar
+parsing google scholar results
 
 fields we care about: 'Title', 'Author', 'Year', 'Citations', 'Citations list', 'Excerpt'
 
