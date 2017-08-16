@@ -1,4 +1,9 @@
-## parsing google scholar
+'''
+parsing google scholar
+
+fields we care about: 'Title', 'Author', 'Year', 'Citations', 'Citations list', 'Excerpt'
+
+'''
 
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
@@ -77,8 +82,6 @@ def searchResultCategory(data):
 def parseArticles(data):
     results = data.find_all('div', class_='gs_r')
     return results
-
-# scholar_fields = ['Title', 'Author', 'URL', 'Year', 'Citations', 'Citations list', 'Excerpt']
 
 
 def parseArticleResultField(data, g_field):
