@@ -1,4 +1,4 @@
-## cleanup
+## parsing google scholar
 
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
@@ -95,10 +95,6 @@ def parseArticleResultField(data, g_field):
                             title = y.get_text()
                             results.append(title)
                 # author goes here
-                elif g_field == 'url':
-                    for a in x.find_all('h3', class_='gs_rt'):
-
-                        results.append(a)
                 elif g_field == 'year':
                     for a in x.find_all('div', class_='gs_a'):
                         blah = a.get_text()
