@@ -84,13 +84,18 @@ def parseArticles(data):
     return results
 
 ## eliminates articles that break my parseArticleResultField below
+# sometimes i have to run this twice, no idea why
 
 def eliminateEdges(data):
     for h,i in enumerate(data):
-        for a in i.find_all('span', class_='gs_ct1'):
-            if a is not None:
-                if '[CITATION]' in a.get_text():
-                    data.pop(h)
+        if i is None:
+            print("None")
+        else:
+            for a in i.find_all('span', class_='gs_ct1'):
+                if a is not None:
+                    if '[CITATION]' in a.get_text():
+                        print(a.get_text())
+                        data.pop(h)
     return data
 
 
@@ -100,14 +105,19 @@ def parseArticleResultField(data, g_field):
     if data != list:
         data = list(data)
 
-        for x in data:  # i probably need to make something that skips the results that break the code...look for [Citation]
+        for x in data:
             if x != '':
                 if g_field == 'title':
                     for a in x.find_all('h3', class_='gs_rt'):
                         for y in a.find_all('a'):
                             title = y.get_text()
                             results.append(title)
-                # author goes here
+                elif g_field == 'author':
+                    for a in x.find_all('div', class_='gs_a'):
+                        author = a.get_text()
+                        clean = author.split(' - ')
+                        author = clean[0]
+                        results.append(author)
                 elif g_field == 'year':
                     for a in x.find_all('div', class_='gs_a'):
                         blah = a.get_text()
@@ -136,32 +146,3 @@ def parseArticleResultField(data, g_field):
                 results.append('n/a')
 
         return results
-
-
-
-
-for h, i in enumerate(second_layer_results):
-    if i != '':
-        for x in i:
-            if x != '':
-                for a in x.find_all('div', class_='gs_fl'):
-                    link = a.find('a')['href']
-                    if 'cites' in link:
-#                        print(link)
-                        # print(''.join(['2nd layer result number ', str(h), '\n', '\n', str(link), '\n', '\n']))
-                        url_stash[h].append(link)
-                        sleep(1)
-                    else:
-                        print('skip!')
-
-
-for h, i in enumerate(second_layer_results):
-    if i != '':
-        for x in i:
-            if x != '':
-                for a in x.find_all('div', class_='gs_fl'):
-                    for y in a.find('a'):
-                        if 'Cited' in y:
-                            print(''.join(['2nd layer result number ', str(h), '\n', '\n', str(y), '\n', '\n']))    # i should be able to get the citation url here too i think
-                            citation_stash[h].append(y)
-                            sleep(2)
