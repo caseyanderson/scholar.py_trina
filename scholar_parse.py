@@ -96,7 +96,7 @@ def parseArticleResultField(data, g_field):
                                     if num[2] != 0:
                                         url = a.find('a')['href']
                                         url = ''.join(['https://scholar.google.com', url])
-                                        results.append([cited, url, n]) # added n here as a hack
+                                        results.append([cited, url, n]) # added n here as a hack to fix sync issues
                 elif g_field == 'excerpt':
                     for a in x.find_all('div', class_='gs_rs'):
                         excerpt = a.get_text()
