@@ -105,7 +105,7 @@ def parseArticleResultField(data, g_field):
     if data != list:
         data = list(data)
 
-        for x in data:
+        for n,x in enumerate(data):
             if x != '':
                 if g_field == 'title':
                     for a in x.find_all('h3', class_='gs_rt'):
@@ -134,12 +134,7 @@ def parseArticleResultField(data, g_field):
                                     if num[2] != 0:
                                         url = a.find('a')['href']
                                         url = ''.join(['https://scholar.google.com', url])
-                                        results.append([cited, url])
-                        else:
-                            print('DOES THIS EVEN HAPPEN?')
-                            cited = 0
-                            url = 'n/a'
-                            results.append([cited, url])
+                                        results.append([cited, url, n]) # added n here as a hack
                 elif g_field == 'excerpt':
                     for a in x.find_all('div', class_='gs_rs'):
                         excerpt = a.get_text()
