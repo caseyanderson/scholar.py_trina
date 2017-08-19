@@ -94,7 +94,7 @@ def eliminateEdges(data):
             for a in i.find_all('span', class_='gs_ct1'):
                 if a is not None:
                     if '[CITATION]' in a.get_text():
-                        print(a.get_text())
+                        # print(a.get_text())
                         data.pop(h)
     return data
 
@@ -124,20 +124,22 @@ def parseArticleResultField(data, g_field):
                         year = re.search(r"(\d{4})", blah).group(1)
                         results.append(year)
                 elif g_field == 'citations':
-                    for a in x.find_all('div', class_='gs_fl'):
-                        for y in a.find('a'):
-                            if 'Cited' in y:
-                                cited = y
-                                num = cited.split(' ')
-                                num[2] = int(num[2])
-                                if num[2] != 0:
-                                    url = a.find('a')['href']
-                                    url = ''.join(['https://scholar.google.com', url])
-                                    results.append([cited, url])
-                                else:
-                                    cited = 0
-                                    url = 'n/a'
-                                    results.append([cited, url])
+                    for j, a in enumerate(x.find_all('div', class_='gs_fl')):
+                        if a != None:
+                            for y in a.find('a', attrs = { 'href' : True }):
+                                if 'Cited by' in y:
+                                    cited = y
+                                    num = cited.split(' ')
+                                    num[2] = int(num[2])
+                                    if num[2] != 0:
+                                        url = a.find('a')['href']
+                                        url = ''.join(['https://scholar.google.com', url])
+                                        results.append([cited, url])
+                        else:
+                            print('DOES THIS EVEN HAPPEN?')
+                            cited = 0
+                            url = 'n/a'
+                            results.append([cited, url])
                 elif g_field == 'excerpt':
                     for a in x.find_all('div', class_='gs_rs'):
                         excerpt = a.get_text()
