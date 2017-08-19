@@ -31,50 +31,12 @@ def writeFile(path, data):
     thefile.close()
 
 
-## outputs a list of a number sequence from start to end
-def num_sequence(start, end):
-    x = list(range(start, end))
-    return x
-
-
-## takes a list (content) and divides it into sublists of size chunk (num)
-def chunks(content, num):
-    data = list(content)
-    numChunks = int(num)
-    processed = [data[x:x+numChunks] for x in range(0, len(data), numChunks)]
-    return list(processed)
-
-
-## takes a list (data) and strips leading and trailing whitespace from each item
-def stripWS(data):
-    info = list(data)
-
-    for h,i in enumerate(info):
-        i = i.strip()
-        info[h] = i
-
-    return info
-
-
 ## request something from google, put it in a soup object
 def google2soup(link):
     req = Request(link, headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read()
     soup = BeautifulSoup(webpage, 'html.parser')
     return soup
-
-
-## basic pattern for looking at soup results by category:
-def searchResultCategory(data):
-    for h, i in enumerate(data):
-        if h == 0:
-            output = list()
-            ## do the stuff
-            output.append(i)
-        else:
-            ## do the stuff
-            output.append(i)
-    return output
 
 
 ## takes a soup object as input and returns first ten google scholar result articles, can be reused on subsequent pages to get more results
@@ -143,3 +105,29 @@ def parseArticleResultField(data, g_field):
                 results.append('n/a')
 
         return results
+
+#########
+## basic cleanup stuff used in earlier versions of this
+## outputs a list of a number sequence from start to end
+def num_sequence(start, end):
+    x = list(range(start, end))
+    return x
+
+
+## takes a list (content) and divides it into sublists of size chunk (num)
+def chunks(content, num):
+    data = list(content)
+    numChunks = int(num)
+    processed = [data[x:x+numChunks] for x in range(0, len(data), numChunks)]
+    return list(processed)
+
+
+## takes a list (data) and strips leading and trailing whitespace from each item
+def stripWS(data):
+    info = list(data)
+
+    for h,i in enumerate(info):
+        i = i.strip()
+        info[h] = i
+
+    return info
