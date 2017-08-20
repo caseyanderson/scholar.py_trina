@@ -12,9 +12,13 @@ def makeDictionary(source, g_field):
 
 ## convert all of second layer
 
-secondlayerArticles = list()
 
-for i in seclayer:
-    convert = parseArticles(i)
-    sleep(1)
-    for j in convert:
+
+secondlayerDicts = [[{} for i in range(10)] for j in range(10)]
+
+
+
+for h, i in enumerate( secondlayerCitations ):
+    for k,j in enumerate(i):
+        secondlayerDicts[h][k]['citations']=j[1]
+        secondlayerDicts[h][k]['citations list']=j[2]

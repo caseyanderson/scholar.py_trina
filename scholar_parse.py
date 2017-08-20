@@ -73,18 +73,18 @@ def parseArticleResultField(data, g_field):
                     for a in x.find_all('h3', class_='gs_rt'):
                         for y in a.find_all('a'):
                             title = y.get_text()
-                            results.append([n, title])
+                            results.append(title)
                 elif g_field == 'author':
                     for a in x.find_all('div', class_='gs_a'):
                         author = a.get_text()
                         clean = author.split(' - ')
                         author = clean[0]
-                        results.append([n, author])
+                        results.append(author)
                 elif g_field == 'year':
                     for a in x.find_all('div', class_='gs_a'):
                         blah = a.get_text()
                         year = re.search(r"(\d{4})", blah).group(1)
-                        results.append([n, year])
+                        results.append(year)
                 elif g_field == 'citations':
                     for j, a in enumerate(x.find_all('div', class_='gs_fl')):
                         if a != None:
@@ -96,7 +96,7 @@ def parseArticleResultField(data, g_field):
                                     if num[2] != 0:
                                         url = a.find('a')['href']
                                         url = ''.join(['https://scholar.google.com', url])
-                                        results.append([n, cited, url]) # added n here as a hack to fix sync issues
+                                        results.append([cited, url]) # added n here as a hack to fix sync issues
                 elif g_field == 'excerpt':
                     for a in x.find_all('div', class_='gs_rs'):
                         excerpt = a.get_text()
