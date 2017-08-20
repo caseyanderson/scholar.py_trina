@@ -108,7 +108,7 @@ def parseArticleResultField(data, g_field):
 
 # output to a list of dictionaries
 
-output = list( {} for i in range(10) )
+# output = list( {} for i in range(10) )
 
 def makeDictionary(source, g_field, entries):
     key = str(g_field)
