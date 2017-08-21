@@ -33,13 +33,13 @@ def writeFile(path, data):
 
 
 with open('outputs.txt', 'a') as outputs:
-    baseDir = '/Users/mdp/git/trina_data/formatted_data_v1/layer_3/pos9/done/'
+    baseDir = '/Users/mdp/git/trina_data/formatted_data_v1/layer_3/pos2/done/'
 
     listoffiles = ['result0.py',  'result1.py',  'result2.py',  'result3.py',  'result4.py',  'result5.py',  'result6.py',  'result7.py',  'result8.py',  'result9.py']
 
 
     for h,i in enumerate(listoffiles):
-        print(''.join(['\n', '\n', '\n', 'list number ', str(h)]), file = outputs)
+        print(''.join(['\n', '\n', '\n', 'list number ', str(h)]))
         path = ''.join([baseDir, i])
         f  = open(path, 'r')
         result = f.read()
@@ -49,7 +49,7 @@ with open('outputs.txt', 'a') as outputs:
         test = [{} for i in range(10)]
 
         for j, k in enumerate(articles):
-            print(''.join([ '\n', '\n', 'article number ', str(j)]), file = outputs)
+            print(''.join([ '\n', '\n', 'article number ', str(j)]))
             title = parseArticleResultField(k, 'title')
             author = parseArticleResultField(k, 'author')
             year =  parseArticleResultField(k, 'year')
@@ -57,9 +57,9 @@ with open('outputs.txt', 'a') as outputs:
             citation = parseArticleResultField(k, 'citations')
 
             for l, m in enumerate(title):
-                print(''.join(['title ', str(title[0][1])]), file = outputs)
-                print(''.join(['author ', str(author[0][1])]), file = outputs)
-                print(''.join(['year ', str(year[0][1])]), file = outputs)
-                print(''.join(['excerpt ', str(excerpt[0][1])]), file = outputs)
-                print(''.join(['citations ', str(citation[0][1])]), file = outputs)
-                print(''.join(['citation list ', str(citation[0][2])]), file = outputs)
+                print(''.join(['title ', str(title[0][1])]))
+                print(''.join(['author ', str(author[0][1])]))
+                print(''.join(['year ', str(year[0][1])]))
+                print(''.join(['excerpt ', str(excerpt[0][1])]))
+                print(''.join(['citations ', str(citation[0][1])]))
+                print(''.join(['citation list ', str(citation[0][2])]))
