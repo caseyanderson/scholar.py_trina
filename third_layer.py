@@ -31,9 +31,6 @@ def writeFile(path, data):
 
     thefile.close()
 
-## basic process
-
-## 1, make list of files to read
 
 with open('outputs.txt', 'a') as outputs:
     baseDir = '/Users/mdp/git/trina_data/formatted_data_v1/layer_3/pos1/done/'
@@ -66,25 +63,3 @@ with open('outputs.txt', 'a') as outputs:
                 print(''.join(['excerpt ', str(excerpt[0][1])]), file = outputs)
                 print(''.join(['citations ', str(citation[0][1])]), file = outputs)
                 print(''.join(['citation list ', str(citation[0][2])]), file = outputs)
-
-
-
-    outputs.close()
-
-
-
-## 2, get the file, open and read into variable
-
-## 3, put into soup object, close file
-
-## 4 parse soup object by articles
-
-## for each article make a dictionary
-
-## check for title, author, year, citations, citations list, and excerpt
-
-## write to dictionary
-
-## move on
-
-## at end of articles, write a file named all
