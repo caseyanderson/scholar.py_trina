@@ -33,7 +33,7 @@ def writeFile(path, data):
 
 
 with open('outputs.txt', 'a') as outputs:
-    baseDir = '/Users/mdp/git/trina_data/formatted_data_v1/layer_3/pos1/done/'
+    baseDir = '/Users/mdp/git/trina_data/formatted_data_v1/layer_3/pos9/done/'
 
     listoffiles = ['result0.py',  'result1.py',  'result2.py',  'result3.py',  'result4.py',  'result5.py',  'result6.py',  'result7.py',  'result8.py',  'result9.py']
 

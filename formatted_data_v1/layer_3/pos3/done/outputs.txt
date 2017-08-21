@@ -1,0 +1,942 @@
+
+
+
+list number 0
+
+
+article number 0
+title Creativity syndrome: Integration, application, and innovation.
+author MD Mumford, SB Gustafson
+year 1988
+excerpt Abstract 1. The present article is concerned with certain conceptual issues embodied in the description and understanding of creative behavior. Initially, we argue that although creativity has been defined in many ways, the ultimate concern in studies of creativity is the 
+citations Cited by 1732
+citation list https://scholar.google.com/scholar?cites=12668284924766836148&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Successful treatment of arrhythmia-induced cardiomyopathy in an infant with tuberous sclerosis complex
+author N Motoki, Y Inaba, S Matsuzaki…
+year 2016
+excerpt Background Tuberous sclerosis complex (TSC) is an autosomal-dominant tumor suppressor gene syndrome that is characterized by the development of distinctive benign tumors and malformations in multiple organ systems (N Eng J Med 355: 1345-1356, 2006). Cardiac 
+citations Cited by 1244
+citation list https://scholar.google.com/scholar?cites=3041819676938177617&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title The Maudsley prescribing guidelines in psychiatry
+author D Taylor, C Paton, S Kapur
+year 2015
+excerpt The essential reference for anyone responsible for prescribing drugs for patients with mental health disorders. Widely and regularly used: the place to check for all relevant information on which drugs to prescribe, which side effects to look out for, how best to augment or switch 
+citations Cited by 1128
+citation list https://scholar.google.com/scholar?cites=12604953581177165890&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Paris, capital of modernity
+author D Harvey
+year 2003
+excerpt David Harvey's historical work on 19th century Paris is universally regarded as brilliant. As much as Benjamin and Marx, he has demonstrated the absolute centrality of capital in creating the modern city--its class relations, culture, urban form, and social life. Yet until now, 
+citations Cited by 966
+citation list https://scholar.google.com/scholar?cites=17687445539876449464&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title What is wrong with Taylor rules? Using judgment in monetary policy through targeting rules
+author LEO Svensson
+year 2003
+excerpt It is argued that inflation targeting is best understood as a commitment to a targeting rule rather than an instrument rule, either a general targeting rule (explicit objectives for monetary policy) or a specific targeting rule (a criterion for the forecasts of the target 
+citations Cited by 854
+citation list https://scholar.google.com/scholar?cites=4707056189515879445&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Learning about monetary policy rules
+author J Bullard, K Mitra
+year 2002
+excerpt We study macroeconomic systems with forward-looking private sector agents and a monetary authority that is trying to control the economy through the use of a linear policy feedback rule. We use stability under recursive learning a la Evans and Honkapohja 
+citations Cited by 698
+citation list https://scholar.google.com/scholar?cites=9784225418003043319&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title The robustness and efficiency of monetary policy rules as guidelines for interest rate setting by the European Central Bank
+author JB Taylor
+year 1999
+excerpt This paper examines the implications of recent research on monetary policy rules for practical monetary policy making, with special emphasis on strategies for setting interest rates by the European Central Bank (ECB). The paper draws on recent research and new 
+citations Cited by 663
+citation list https://scholar.google.com/scholar?cites=16655362745922902574&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title Forever England: femininity, literature and conservatism between the wars
+author A Light
+year 2013
+excerpt First published 1991 by Routledge 2 Park Square, Milton Park, Abingdon, ()xon, 0X14 4RN Simultaneously 
+published in the USA and Canada by Routledge 270 Madison Avenue, New York, NY 10016 
+Reprinted 2000, 2001 Routledge is an imprint of the Taylor 6 Francis Group © Alison Light 1991 
+citations Cited by 650
+citation list https://scholar.google.com/scholar?cites=2115358854956778419&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title Nonpharmacological interventions for ADHD: systematic review and meta-analyses of randomized controlled trials of dietary and psychological treatments
+author EJS Sonuga-Barke, D Brandeis…
+year 2013
+excerpt Objective Nonpharmacological treatments are available for attention deficit hyperactivity disorder (ADHD), although their efficacy remains uncertain. The authors undertook meta-analyses of the efficacy of dietary (restricted elimination diets, artificial food color exclusions, 
+citations Cited by 519
+citation list https://scholar.google.com/scholar?cites=283500315182172155&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title The analysis of 51 genes in DSM-IV combined type attention deficit hyperactivity disorder: association signals in DRD4, DAT1 and 16 other genes
+author K Brookes, X Xu, W Chen, K Zhou, B Neale…
+year 2006
+excerpt Abstract Attention deficit hyperactivity disorder (ADHD) is a common neurodevelopmental disorder, starting in early childhood and persisting into adulthood in the majority of cases. Family and twin studies have demonstrated the importance of genetic factors and candidate 
+citations Cited by 509
+citation list https://scholar.google.com/scholar?cites=12087229539795630612&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 1
+
+
+article number 0
+title Multimodality: A social semiotic approach to contemporary communication
+author G Kress
+year 2009
+excerpt The 21st century is awash with ever more mixed and remixed images, writing, layout, sound, gesture, speech, and 3D objects. Multimodality looks beyond language and examines these multiple modes of communication and meaning making. Multimodality: A Social Semiotic 
+citations Cited by 2248
+citation list https://scholar.google.com/scholar?cites=16655267088224796309&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Mobile computing devices in higher education: Student perspectives on learning with cellphones, smartphones & social media
+author J Gikas, MM Grant
+year 2013
+excerpt Abstract The purpose of this research was to explore teaching and learning when mobile computing devices, such as cellphones and smartphones, were implemented in higher education. This paper presents a portion of the findings on students' perceptions of learning 
+citations Cited by 415
+citation list https://scholar.google.com/scholar?cites=16820112471683646077&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title Viewing mobile learning from a pedagogical perspective
+author M Kearney, S Schuck, K Burden…
+year 2012
+excerpt Mobile learning is a relatively new phenomenon and the theoretical basis is currently under development. The paper presents a pedagogical perspective of mobile learning which highlights three central features of mobile learning: authenticity, collaboration and 
+citations Cited by 352
+citation list https://scholar.google.com/scholar?cites=1968818126740737314&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Schools going mobile: A study of the adoption of mobile handheld technologies in Western Australian independent schools
+author M Pegrum, G Oakley, R Faulkner
+year 2013
+excerpt Abstract This paper reports on the adoption of mobile handheld technologies in ten Western Australian independent schools, based on interviews with staff conducted in 2011. iPads were the most popular device, followed by iPod Touches and iPhones. Class sets were 
+citations Cited by 160
+citation list https://scholar.google.com/scholar?cites=7603129674035862101&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Learning to Teach Using ICT in the Secondary School: A companion to school experience
+author M Leask
+year 2013
+excerpt Learning to Teach Using ICT in the Secondary School offers teachers of all subjects a comprehensive, practical introduction to the extensive possibilities that ICT offers pupils, teachers and schools. Under-pinned by the latest theory and research, it provides practical 
+citations Cited by 135
+citation list https://scholar.google.com/scholar?cites=8327132107867272682&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Critical success factors for transforming pedagogy with mobile Web 2.0
+author TD Cochrane
+year 2014
+excerpt Abstract Mobile learning (mlearning) research has in general been characterised by short-term comparative pilot studies with little high-level critique or theory formation. Consequently, there is limited evidence in the literature of mlearning research that is 
+citations Cited by 119
+citation list https://scholar.google.com/scholar?cites=8267826633650523795&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Appropriation of mobile cultural resources for learning
+author N Pachler, J Cook, B Bachmair
+year 2012
+excerpt ABSTRACT This article proposes appropriation as the key for the recognition of mobile devices—as well as the artefacts accessed through, and produced with them—as cultural resources across different cultural practices of use, in everyday life and formal education. 
+citations Cited by 107
+citation list https://scholar.google.com/scholar?cites=387288019209404198&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title Mobile phones as mediating tools within augmented contexts for development
+author J Cook
+year 2010
+excerpt ABSTRACT This paper argues for the need to re-examine approaches to the design of, and research into, learning experiences that incorporate mobile phones in the learning context. Following an overview of 'mobile learning'the author's argument describes two initiatives: 
+citations Cited by 103
+citation list https://scholar.google.com/scholar?cites=10349926013125277157&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title Mobile practices in everyday life: Popular digital technologies and schooling revisited
+author G Merchant
+year 2012
+excerpt Abstract Mobile phones have rapidly been absorbed into the fabric of our day-to-day lives. They are now a key consumer item, a symbol of social capital and they connect their users to a mobile web with multiple applications. As ownership and access to smartphones has 
+citations Cited by 105
+citation list https://scholar.google.com/scholar?cites=8245605058786145741&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Facebook as a learning tool? A case study on the appropriation of social network sites from mobile phones in developing countries
+author C Pimmer, S Linxen, U Gröhbiel
+year 2012
+excerpt Abstract This exploratory research investigates how students and professionals use social network sites (SNSs) in the setting of developing and emerging countries. Data collection included focus groups consisting of medical students and faculty as well as the analysis of a 
+citations Cited by 95
+citation list https://scholar.google.com/scholar?cites=4374124302295398231&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 2
+
+
+article number 0
+title Mobile communication and society: A global perspective
+author M Castells, M Fernandez-Ardevol, JL Qiu, A Sey
+year 2009
+excerpt Wireless networks are the fastest growing communications technology in history. Are mobile phones expressions of identity, fashionable gadgets, tools for life--or all of the above? Mobile Communication and Society looks at how the possibility of multimodal 
+citations Cited by 1640
+citation list https://scholar.google.com/scholar?cites=8587587722512939449&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Diffusion and success factors of mobile marketing
+author A Scharl, A Dickinger, J Murphy
+year 2005
+excerpt Mobile marketing offers direct communication with consumers, anytime and anyplace. This paper reviews mobile marketing and then investigates the most successful form of mobile communication, short message services (SMS), via a quantitative content analysis of the 
+citations Cited by 547
+citation list https://scholar.google.com/scholar?cites=13504933242366962152&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title Global Cinderellas: Migrant domestics and newly rich employers in Taiwan
+author PC Lan
+year 2006
+excerpt Migrant women are the primary source of paid domestic labor around the world. Since the 1980s, the newly prosperous countries of East Asia have recruited foreign household workers at a rapidly increasing rate. Many come from the Philippines and Indonesia. Pei-
+citations Cited by 445
+citation list https://scholar.google.com/scholar?cites=11889580469500629452&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Can the ubiquitous power of mobile phones be used to improve health outcomes in developing countries?
+author WA Kaplan
+year 2006
+excerpt Background The ongoing policy debate about the value of communications technology in promoting development objectives is diverse. Some view computer/web/phone communications technology as insufficient to solve development problems while others view 
+citations Cited by 432
+citation list https://scholar.google.com/scholar?cites=1844956686193782009&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Designing the spectator experience
+author S Reeves, S Benford, C O'Malley, M Fraser
+year 2005
+excerpt Abstract Interaction is increasingly a public affair, taking place in our theatres, galleries, museums, exhibitions and on the city streets. This raises a new design challenge for HCI-how should spectators experience a performer's interaction with a computer? We classify 
+citations Cited by 374
+citation list https://scholar.google.com/scholar?cites=17161260005708398421&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Personality and self reported mobile phone use
+author S Butt, JG Phillips
+year 2008
+excerpt As the mobile phone supports interpersonal interaction, mobile phone use might be a function of personality. This study sought to predict amounts and types of mobile phone use from extraversion, agreeableness, conscientiousness, neuroticism and self-esteem. One 
+citations Cited by 361
+citation list https://scholar.google.com/scholar?cites=7619375286722083384&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Motivations for using the mobile phone for mass communications and entertainment
+author R Wei
+year 2008
+excerpt This study draws on the uses and gratifications framework to examine expanded use of a hybrid medium—the mobile phone—for mass communications and entertainment. Results of a telephone survey of 208 users show different motivations predict diverse uses of the 
+citations Cited by 280
+citation list https://scholar.google.com/scholar?cites=11490727746615553227&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title An investigation and conceptual model of SMS marketing
+author A Dickinger, P Haghirian, J Murphy…
+year 2004
+excerpt Abstract: Mobile marketing, also known as wireless marketing, promises vast opportunities. Still in an experimental phase, businesses have little experience using this new marketing tool. Mobile services offer companies powerful marketing potential via direct communication 
+citations Cited by 260
+citation list https://scholar.google.com/scholar?cites=667117835333690489&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title RU There? Ostracism by Cell Phone Text Messages.
+author A Smith, KD Williams
+year 2004
+excerpt Abstract 1. Ostracism has a powerful negative effect on individuals. Face-to-face (ie, social) ostracism is not necessary for these effects to emerge; they occur also in Internet ball toss games and within chat rooms. In previous research, ostracized individuals observed the 
+citations Cited by 258
+citation list https://scholar.google.com/scholar?cites=10243022792573130574&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Cellphones in public: social interactions in a wireless era
+author L Humphreys
+year 2005
+excerpt Cellphones provide a unique opportunity to examine how new media both reflect and affect the social world. This study suggests that people map their understanding of common social rules and dilemmas onto new technologies. Over time, these interactions create and reflect a 
+citations Cited by 205
+citation list https://scholar.google.com/scholar?cites=9501968048861621943&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 3
+
+
+article number 0
+title Hanging out, messing around, and geeking out: Kids living and learning with new media
+author M Ito, S Baumer, M Bittanti, R Cody, BH Stephenson…
+year 2009
+excerpt Conventional wisdom about young people's use of digital technology often equates generational identity with technology identity: today's teens seem constantly plugged in to video games, social networking sites, and text messaging. Yet there is little actual research 
+citations Cited by 1423
+citation list https://scholar.google.com/scholar?cites=873258554099512871&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Cell phone culture: Mobile technology in everyday life
+author G Goggin
+year 2012
+excerpt Providing the first comprehensive, accessible, and international introduction to cell phone culture and theory, this book is and clear and sophisticated overview of mobile telecommunications, putting the technology in historical and technical context. 
+citations Cited by 731
+citation list https://scholar.google.com/scholar?cites=3433336176603926604&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title New tech, new ties
+author RS Ling
+year 2008
+excerpt Where I work, we have a tradition, or perhaps a ritual. Its functioning illustrates some of the main themes of this book: the relationship between ritual and social cohesion, with some aspects of mediated interaction in the mix. Every Friday at 2 PM, we gather and have a 
+citations Cited by 727
+citation list https://scholar.google.com/scholar?cites=5347104186261708253&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Children and the Internet
+author S Livingstone
+year 2009
+excerpt Is the internet really transforming children and young people's lives? Is the so-called 'digital generation'genuinely benefiting from exciting new opportunities? And, worryingly, facing new risks? This major new book by a leading researcher addresses these pressing 
+citations Cited by 657
+citation list https://scholar.google.com/scholar?cites=4898163706070764070&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title 'Virtual'intimacies? Families communicating across transnational contexts
+author R Wilding
+year 2006
+excerpt Abstract Many analyses of the uses of Information and Communication Technology (ICT) focus on factors such as gender, class and communication infrastructures in explaining how and whether people communicate across distance. In this article, I argue that such analyses 
+citations Cited by 439
+citation list https://scholar.google.com/scholar?cites=9779893231964227730&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Feminist theories of technology
+author J Wajcman
+year 2010
+excerpt Abstract Feminist theories of technology have come a long way over the last quarter of a century. The expanding engagement at the intersection of feminist scholarship and science and technology studies (STS) has enriched both fields immeasurably, and I will largely focus 
+citations Cited by 430
+citation list https://scholar.google.com/scholar?cites=16575675252999300368&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Comparing children's online opportunities and risks across Europe: Cross-national comparisons for EU Kids Online
+author U Hasebrink, S Livingstone, L Haddon, K Olafsson
+year 2009
+excerpt In many countries, within and outside Europe, children and young people are gaining access to the internet and online technologies at a rapid pace. As the 2008 Eurobarometer survey on Safer Internet issues showed, 75% of all children aged 6-17 years old in the EU 
+citations Cited by 324
+citation list https://scholar.google.com/scholar?cites=6225770040171050808&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title Life in the fast lane? Towards a sociology of technology and time
+author J Wajcman
+year 2008
+excerpt Abstract Assumptions about the pace of life speeding up abound in contemporary social theory. While many factors are contributing to this phenomenon, information and communication technologies are seen as the main drivers. This article considers the way 
+citations Cited by 247
+citation list https://scholar.google.com/scholar?cites=13393347488663999621&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title Magic in the air: Mobile communication and the transformation of social life
+author JE Katz
+year 2011
+excerpt In this timely volume, James E. Katz, a leading authority on social consequences of communication technology, analyzes the way new mobile telecommunications affect daily life both in the United States and around the world. Magic in the Air is the most wide-ranging 
+citations Cited by 238
+citation list https://scholar.google.com/scholar?cites=12849794802668301309&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title The contribution of domestication research to in-home computing and media consumption
+author L Haddon
+year 2006
+excerpt This article deals with the contribution made by domestication research to our understanding of information and communication technologies (ICTs) in everyday life, especially in the home. It first provides a sense of the diversity of research in this tradition and how this is 
+citations Cited by 218
+citation list https://scholar.google.com/scholar?cites=10029357756096704719&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 4
+
+
+article number 0
+title Using a multi-criteria decision making approach to evaluate mobile phone alternatives
+author G Işıklar, G Büyüközkan
+year 2007
+excerpt The arrival of the mobile phone and its rapid and widespread growth may well be seen as one of the most significant developments in the fields of communication and information technology over the past two decades. The aim of this study is to propose a multi-criteria 
+citations Cited by 317
+citation list https://scholar.google.com/scholar?cites=9022585576305051370&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Implications of mobility: The uses of personal communication media in everyday life
+author K Ishii
+year 2006
+excerpt Abstract This study examined the impact of mobile communications on interpersonal relationships in daily life. Based on a nationwide survey in Japan, landline phone, mobile voice phone, mobile mail (text messaging), and PC e-mail were compared to assess their 
+citations Cited by 259
+citation list https://scholar.google.com/scholar?cites=1877079607709537837&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title Extending family to school life: College students' use of the mobile phone
+author YF Chen, JE Katz
+year 2009
+excerpt The current study seeks to understand if there is a pattern between college students' mobile phone usage and their family members at home, and to what degree it affects their college life. Three focus group interviews were conducted on February 1, February 2, and February 
+citations Cited by 173
+citation list https://scholar.google.com/scholar?cites=5946838880918249617&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Mobile phone ownership and usage among pre-adolescents
+author R Davie, C Panting, T Charlton
+year 2004
+excerpt Research has revealed that the mobile phone is, for adolescents, a medium which permits communication without the surveillance of parents, families and teachers. Indeed, the current study found this to be the case with younger pupils, too. However, communicating 
+citations Cited by 139
+citation list https://scholar.google.com/scholar?cites=17502658157099917548&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Useful, social and enjoyable: Mobile phone adoption by older people
+author M Conci, F Pianesi, M Zancanaro
+year 2009
+excerpt Abstract. The paper presents an empirical model of acceptance of mobile phones by elderly people. It is based on an extension of the widely used TAM-Technology Acceptance Model and aims specifically at investigating the relationship among intrinsic and extrinsic 
+citations Cited by 131
+citation list https://scholar.google.com/scholar?cites=14082195508418714111&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title The impact of the mobile phone on young people's social life
+author MA Campbell
+year 2005
+excerpt The adoption of the mobile phone by young people has been a global phenomenon in recent years. It is now an integral part of adolescents' daily lives and is for the majority, the most popular form of electronic communication. In fact, the mobile phone has turned from a 
+citations Cited by 122
+citation list https://scholar.google.com/scholar?cites=18270308264568335643&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Exploring Koreans' smartphone usage: An integrated model of the technology acceptance model and uses and gratifications theory
+author J Joo, Y Sang
+year 2013
+excerpt Abstract This study investigates factors that influence adoption and use of smartphones among Koreans and seeks to integrate two theoretical approaches: the technology acceptance model (TAM) and the uses and gratifications (U&G) approach. To that end, the 
+citations Cited by 100
+citation list https://scholar.google.com/scholar?cites=17502840453709537520&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title Mobile phone choice: technology versus marketing. The brand effect in the Italian market
+author L Petruzzellis
+year 2010
+excerpt Purpose–The main research question of the paper is to determine whether technology nowadays is overcome by customer preferences and needs. In particular, the role of the brand is to be analysed with respect to its influence in shifting customer preferences from the 
+citations Cited by 75
+citation list https://scholar.google.com/scholar?cites=3616861533630722143&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title Country-specific sentiment and security prices
+author BH Hwang
+year 2011
+excerpt I study the effect of country-specific sentiment on security prices. I provide evidence that a country's popularity among Americans affects US investors' demand for securities from that country and causes security prices to deviate from their fundamental values. Moreover, I find 
+citations Cited by 74
+citation list https://scholar.google.com/scholar?cites=2305792840039971077&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Students' thoughts about the importance and costs of their mobile devices' features and services
+author AA Economides, A Grousopoulou
+year 2009
+excerpt In recent years, handheld devices have become one of the fastest growing communication gadgets. Mobile technology is becoming widespread and research in this area is urgently needed. Using a survey instrument, the thoughts of male and female students regarding the 
+citations Cited by 72
+citation list https://scholar.google.com/scholar?cites=15945160437719784247&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 5
+
+
+article number 0
+title Flows of meaning, cultures of movements–urban mobility as meaningful everyday life practice
+author OB Jensen
+year 2009
+excerpt Contemporary cities and places are defined by mobility and flows as much as by their sedentary and fixed properties. In the words of Shane the city may be seen as configured by 'enclaves'(fixed and bounded sites) and 'armatures'(infrastructure channels and transit 
+citations Cited by 192
+citation list https://scholar.google.com/scholar?cites=4762590530121788584&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Mobile methodologies: Theory, technology and practice
+author JR Hein, J Evans, P Jones
+year 2008
+excerpt Abstract This article reviews developments in 'mobile methodologies', looking at the theory, technologies and practice of mobile methods. We focus specifically on methods where the research subject and researcher are in motion in the 'field', and seek to understand what 
+citations Cited by 118
+citation list https://scholar.google.com/scholar?cites=13321152030276181888&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title Regenerating London: governance, sustainability and community in a global city
+author R Imrie, L Lees, M Raco
+year 2009
+excerpt Regenerating London explores latest thinking on urban regeneration in one of the fastest changing world cities. Engaging with social, economic, and political structures of cities, it highlights paradoxes and contradictions in urban policy and offers an evaluation of the 
+citations Cited by 103
+citation list https://scholar.google.com/scholar?cites=2883267443109052851&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Staging mobilities
+author OB Jensen
+year 2013
+excerpt In recent years, the social sciences have taken a 'mobilities turn'. There has been a developing realisation that mobilities do not 'just happen'. Mobilities are carefully and meticulously designed, planned and staged (from above). However, they are equally 
+citations Cited by 96
+citation list https://scholar.google.com/scholar?cites=6034538433197244828&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Global nomads' network and mobile sociality: Exploring new media uses on the move
+author G Mascheroni
+year 2007
+excerpt This paper explores the convergence of communication and travel and the emergence of a mobile and network sociality, through investigating new communication practices based on the internet and mobile phone enacted by backpackers while on the move. These global 
+citations Cited by 74
+citation list https://scholar.google.com/scholar?cites=14616355578842715904&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Post—mass media functions, locative media, and informational territories: New ways of thinking about territory, place, and mobility in contemporary society
+author A Lemos
+year 2010
+excerpt The basic underlying idea of this article can be put as follows: informational mobile technologies have enabled new means of communication and sociability based on what I call “post-mass media functions” and “informational territories.” What is at stake here is to 
+citations Cited by 69
+citation list https://scholar.google.com/scholar?cites=15858461312508100350&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Locative mobile social networks: Mapping communication and location in urban spaces
+author A De Souza e Silva, J Frith
+year 2010
+excerpt Abstract This study conceptualizes the new spatial logic created by the social use of location aware mobile technologies, analyzing how mobile communities are formed by the mapping of social networks in urban spaces. It explores two main areas with the goal of 
+citations Cited by 66
+citation list https://scholar.google.com/scholar?cites=13530080650696526040&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title Mobile communication and new sense of places: a critique of spatialization in cyberculture
+author A Lemos
+year 2008
+excerpt Abstract: The underlying idea of this paper can be expressed as follows: informational mobile technologies have enabled new means of communication and sociability based on what I call “informational territories”. What is at stake here is to question some visions about 
+citations Cited by 53
+citation list https://scholar.google.com/scholar?cites=4499384913904750750&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title Making links: On (re) engaging with transport and transport geography
+author J Shaw, JD Sidaway
+year 2011
+excerpt Recent reviews have suggested a vibrancy and diversity in transport geography. But these articles were the first progress reports on transport geography since 1988, indicating how the field has been relatively marginal to broader disciplinary debates. Meanwhile, a lively 
+citations Cited by 52
+citation list https://scholar.google.com/scholar?cites=882419907594257085&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Mobilizing place: Mobile media, peripatetics, and the renegotiation of urban places
+author R Wilken
+year 2008
+excerpt Acommon refrain in much of the critical literature from the 1980s and 1990s has been that electronic media affect dramatically (and negatively) how we experience and understand place. For example, in his influential book, No Sense of Place, Joshua Meyrowitz argues that 
+citations Cited by 49
+citation list https://scholar.google.com/scholar?cites=3746004169698834048&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 6
+
+
+article number 0
+title Visibility in social theory and social research
+author AM Brighenti
+year 2010
+excerpt What is social visibility? How does it affect people and public issues? How are visibility regimes created, organized and contested? Tackling both social theory and social research, the book is an exploration into how intervisibilities produce crucial sociotechnical and 
+citations Cited by 158
+citation list https://scholar.google.com/scholar?cites=1768462778570285549&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Constant connectivity: Rethinking interruptions at work
+author J Wajcman, E Rose
+year 2011
+excerpt While the subject of interruptions has received considerable attention among organizational researchers, the pervasive presence of information and communication technologies has not been adequately conceptualized. Here we consider the way knowledge workers interact 
+citations Cited by 119
+citation list https://scholar.google.com/scholar?cites=4658053406307927311&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title The mobile phone, perpetual contact and time pressure
+author M Bittman, JE Brown…
+year 2009
+excerpt Mobile phone services are now universally diffused, creating the possibility of perpetual contact, regardless of time and location. Many think the impossibility of being 'out of touch'leads to increased time pressure. In addition to claims that the mobile phone has led to 
+citations Cited by 101
+citation list https://scholar.google.com/scholar?cites=490766732337201126&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Surf's up: Work, life, balance and brand in a new age capitalist organization
+author C Land, S Taylor
+year 2010
+excerpt This article reframes the notion of work/life balance through analysis of branding and the immaterial labour process in a 'new age capitalist'organization. The company does not manufacture material products; rather, value is produced through branding imported goods 
+citations Cited by 96
+citation list https://scholar.google.com/scholar?cites=4940928256770233138&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Technomobility in China: Young migrant women and mobile phones
+author C Wallis
+year 2015
+excerpt Winner of the 2014 Bonnie Ritter Book Award Winner of the 2013 James W. Carey Media Research Award As unprecedented waves of young, rural women journey to cities in China, not only to work, but also to “see the world” and gain some autonomy, they regularly face 
+citations Cited by 88
+citation list https://scholar.google.com/scholar?cites=4258529159165877360&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Embracing or embattled by converged mobile devices? Users' experiences with a contemporary connectivity technology
+author SF Matusik, AE Mickel
+year 2011
+excerpt In this qualitative study, we examine how converged mobile devices (eg BlackBerries, Treos, and iPhones) are experienced by users of this contemporary connectivity technology. Perhaps not surprisingly, users experience similar pressures to be accessible and 
+citations Cited by 76
+citation list https://scholar.google.com/scholar?cites=10313434064505142637&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Dependency on smartphone and the impact on purchase behaviour
+author D Hooi Ting, S Fong Lim, T Siuly Patanmacia…
+year 2011
+excerpt Purpose–This study aims to investigate the effect of convenience, social needs and social influences on university students' dependency towards smartphones and the impact on future purchase behaviour in Malaysia. Design/methodology/approach–Hypotheses were 
+citations Cited by 76
+citation list https://scholar.google.com/scholar?cites=9776772933572544304&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title The effect of users' characteristics and experiential factors on the compulsive usage of the smartphone
+author BW Park, KC Lee
+year 2011
+excerpt Abstract In recent times, mobile phones have become more than a product to make phone calls. As mobile phones have many functions, like a personal computer, they have become mandatory. Therefore, many people use them all the time. This compulsive usage of mobile 
+citations Cited by 62
+citation list https://scholar.google.com/scholar?cites=13884270649796768292&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title Enterprise mobility: tiny technology with global impact on work
+author C Sørensen
+year 2011
+excerpt There are currently 3.5 billion mobile phones in the world and mobile information technologies permeate all aspects of life. This book explores how mobile technologies and information work shape each other. Most writings do not consider how information work 
+citations Cited by 64
+citation list https://scholar.google.com/scholar?cites=9854629437758225306&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Mobile phones during work and non-work time: A case study of mobile, non-managerial workers
+author D Hislop, C Axtell
+year 2011
+excerpt This paper examines how some non-managerial/professional workers (mobile service engineers) used mobile phones for work, with a central focus on phone use during working hours. During working hours the engineers not only used their phones as work-related 
+citations Cited by 61
+citation list https://scholar.google.com/scholar?cites=17910085114962831244&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 7
+
+
+article number 0
+title Cultural geography: the busyness of beingmore-than-representational'
+author H Lorimer
+year 2005
+excerpt I Parameters, definitions and themes This is the first ofthree reports I will write covering an emergent area ofresearch in cultural geography and its cognate fields. During recent years,'non-representational theory'has become as an umbrella term for diverse work that 
+citations Cited by 904
+citation list https://scholar.google.com/scholar?cites=10623596410823782463&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Mobilities, networks, geographies
+author J Larsen, J Urry
+year 2016
+excerpt There have been striking increases in both long-distance travel and in communications through mobile phones, text messaging, emailing and videoconferencing. Such developments in communication, along with a similar increase in physical travel and 
+citations Cited by 288
+citation list https://scholar.google.com/scholar?cites=14561459954027807026&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title The gift of travel time
+author J Jain, G Lyons
+year 2008
+excerpt The interpretation of travel time in economic terms has played a fundamental part in shaping our transport systems. The time consumed in order to travel to a destination has been seen as the price paid for fulfilling the purpose of reaching that destination. By interpreting travel 
+citations Cited by 281
+citation list https://scholar.google.com/scholar?cites=17729120544775625495&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title The use of travel time by rail passengers in Great Britain
+author G Lyons, J Jain, D Holley
+year 2007
+excerpt In the face of a society that exhibits an increasing dependence on motorised mobility, the response of transport policy is one that remains grounded in the pursuit of quicker journey times. Less time spent travelling is assumed to convert 'unproductive'time into economically 
+citations Cited by 262
+citation list https://scholar.google.com/scholar?cites=14566518837598025777&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Passenger mobilities: affective atmospheres and the sociality of public transport
+author D Bissell
+year 2010
+excerpt This paper takes as its starting point the centrality of nonrepresentational registers of communication and comprehension to understanding how everyday experiences of travelling with others by public transport unfolds. Drawing on extensive primary research, it 
+citations Cited by 264
+citation list https://scholar.google.com/scholar?cites=18328083904310616228&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Is mobile email functional or dysfunctional? Two perspectives on mobile email usage
+author CA Middleton, W Cukier
+year 2006
+excerpt Abstract This paper offers a study of contradiction in the usage of mobile email. Using qualitative data, the paper identifies mobile email usage patterns that are dangerous, distracting, anti-social and that infringe on work-life boundaries. Mobile email users were 
+citations Cited by 192
+citation list https://scholar.google.com/scholar?cites=4741753667627671839&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Time thieves and space invaders: Technology, work and the organization
+author I Towers, L Duxbury, C Higgins…
+year 2006
+excerpt Purpose–This paper aims to investigate the shifting boundaries between two experiential categories–home and work–for office workers. The boundaries are both spatial and temporal, and the paper seeks to analyse how certain kinds of mobile technology are being 
+citations Cited by 165
+citation list https://scholar.google.com/scholar?cites=4377088268930708325&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title Identifying the ideal fit between mobile work and mobile work support
+author Y Yuan, N Archer, CE Connelly, W Zheng
+year 2010
+excerpt The rapid growth in the use of wireless communication and portable devices has created a potential for a variety of mobile work support. However, few studies have explored the nature of mobile work, examined the needs for its support, and identified the appropriate support for 
+citations Cited by 154
+citation list https://scholar.google.com/scholar?cites=2173530739444994514&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title Business travel and mobile workers
+author A Aguilera
+year 2008
+excerpt Transportation activity generated by businesses has been analyzed mainly with reference to freight flows and commuting trips. The area of employee business trips has been largely ignored, even though the literature–particularly that dealing with industrial economics–has 
+citations Cited by 146
+citation list https://scholar.google.com/scholar?cites=15696935866298967363&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Variable geometries of connection: urban digital divides and the uses of information technology
+author M Crang, T Crosbie, S Graham
+year 2006
+excerpt This paper proposes a new way of conceptualising urban'digital divides'. It focuses on the ways in which information and communication technologies (ICTs) unevenly affect the pace of life within the urban environment. Based on a detailed case study of how ICTs are being 
+citations Cited by 111
+citation list https://scholar.google.com/scholar?cites=8437373466187202808&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 8
+
+
+article number 0
+title College students' use of electronic communication with parents: links to loneliness, attachment, and relationship quality
+author AL Gentzler, AM Oberhauser…
+year 2011
+excerpt Abstract Despite the ubiquitous use of new communication technologies, gaps in our knowledge remain regarding who is likely to rely on particular technologies and potential ramifications of these forms of communication on individuals' relationships and adjustment. 
+citations Cited by 96
+citation list https://scholar.google.com/scholar?cites=2807035383725545056&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Social media and personal relationships: Online intimacies and networked friendship
+author D Chambers
+year 2013
+excerpt One of the most striking changes in personal life during late modernity is the use of social media for conducting personal relationships. These changes entail a growing significance in the public display of personal connectedness and the importance of the term 'friendship'in 
+citations Cited by 65
+citation list https://scholar.google.com/scholar?cites=5499914065527700743&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title Exploring the relationship between urbanized Malaysian youth and their mobile phones: A quantitative approach
+author V Balakrishnan, RG Raj
+year 2012
+excerpt Mobile phones have become a ubiquitous consumer item. This paper aims to explore mobile phone usage, extending work beyond teenage years to examine the role of mobile phones among urbanized Malaysian youth, specifically university students. Four main 
+citations Cited by 59
+citation list https://scholar.google.com/scholar?cites=10840661894662100994&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Prospect for cell phones as instructional tools in the EFL classroom: A case study of Jahangirnagar University, Bangladesh
+author R Begum
+year 2011
+excerpt Abstract The aim of this study was to investigate the potentiality of cell phone use in the EFL classroom of Bangladesh as an instructional tool. The researcher conducted a case study on Jahangirnagar University of Bangladesh. For the study, some SMS based class tests were 
+citations Cited by 48
+citation list https://scholar.google.com/scholar?cites=15964238475319406549&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Mobile phone to youngsters: Necessity or addiction
+author I Ahmed, TF Qazi, KA Perji
+year 2011
+excerpt Abstract This study focuses on exploring the pattern of mobile phone usage among youngsters in Pakistan to delineate the extent of addictive behavior towards its usage. For this purpose questionnaires were used to elicit the responses. University students were 
+citations Cited by 41
+citation list https://scholar.google.com/scholar?cites=10846610013353528917&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Academic performance of first-generation college students with disabilities
+author AR Lombardi, C Murray, H Gerdes
+year 2012
+excerpt Students with disabilities are attending postsecondary school in increasing numbers (Newman, Wagner, Cameto, & Knokey, 2009). Recent estimates suggest that as many as 1 in 10 college students have some type of apparent (eg, mobility impairments) or 
+citations Cited by 38
+citation list https://scholar.google.com/scholar?cites=230150122151360933&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Protective effects of parent–college student communication during the first semester of college
+author ML Small, N Morgan, C Abar…
+year 2011
+excerpt Abstract Objective: Recent studies suggest that parents maintain influence as their adolescents transition into college. Advances in communication technology make frequent communication between parents and college students easy and affordable. This study 
+citations Cited by 31
+citation list https://scholar.google.com/scholar?cites=5292780534919596100&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title Going to college and staying connected: Communication between college freshmen and their parents
+author ME Smith, DT Nguyen, C Lai, G Leshed…
+year 2012
+excerpt Abstract For many first-year college students in their late teen years, communicating with parents provides crucial social support. When going to college involves moving away from home for the first time, students and their parents must rely on technologies to keep 
+citations Cited by 29
+citation list https://scholar.google.com/scholar?cites=12414561322577240803&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title Female college students' media use and academic outcomes: Results from a longitudinal cohort study
+author JL Walsh, RL Fielder, KB Carey…
+year 2013
+excerpt This longitudinal study describes women's media use during their first year of college and examines associations between media use and academic outcomes. Female students (N= 483, M age= 18.1 years) reported on their use of 11 media forms and their grade point 
+citations Cited by 31
+citation list https://scholar.google.com/scholar?cites=4402810564507766045&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Risk and benefit perceptions of mobile phone and base station technology in Bangladesh
+author E Van Kleef, ARH Fischer, M Khan, LJ Frewer
+year 2010
+excerpt Abstract Research in developed countries showed that many citizens perceive that radio signals transmitted by mobile phones and base stations represent potential health risks. Less research has been conducted in developing countries focused on citizen perceptions 
+citations Cited by 28
+citation list https://scholar.google.com/scholar?cites=5282647071380052776&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 9
+
+
+article number 0
+title Habits make smartphone use more pervasive
+author A Oulasvirta, T Rattenbury, L Ma, E Raita
+year 2012
+excerpt Abstract Examining several sources of data on smartphone use, this paper presents evidence for the popular conjecture that mobile devices are “habit-forming.” The form of habits we identified is called a checking habit: brief, repetitive inspection of dynamic content 
+citations Cited by 444
+citation list https://scholar.google.com/scholar?cites=4542248636104631994&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title E-mail as a source and symbol of stress
+author SR Barley, DE Meyerson, S Grodal
+year 2011
+excerpt The increasing volume of e-mail and other technologically enabled communications are widely regarded as a growing source of stress in people's lives. Yet research also suggests that new media afford people additional flexibility and control by enabling them to 
+citations Cited by 242
+citation list https://scholar.google.com/scholar?cites=9568171506769363806&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title Relationships between work-home segmentation and psychological detachment from work: the role of communication technology use at home.
+author YA Park, C Fritz, SM Jex
+year 2011
+excerpt Abstract 1. Employees can have difficulty mentally distancing themselves from work during off-job time due to increasing use of communication technologies (eg, e-mail, cell phone, etc.). However, psychological detachment from work during nonwork time is important for 
+citations Cited by 168
+citation list https://scholar.google.com/scholar?cites=15979996791648621824&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Virtual teams research: 10 years, 10 themes, and 10 opportunities
+author LL Gilson, MT Maynard…
+year 2015
+excerpt Ten years ago, Martins, Gilson, and Maynard reviewed the emerging virtual team (VT) literature. Given the proliferation of new communication technologies and the increased usage of work teams, it is hardly surprising that the last decade has seen an influx of VT 
+citations Cited by 146
+citation list https://scholar.google.com/scholar?cites=12998362531376322448&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Comparing telework locations and traditional work arrangements: Differences in work-life balance support, job satisfaction, and inclusion
+author VJ Morganson, DA Major, KL Oborn…
+year 2010
+excerpt Purpose–The purpose of this paper is to examine differences in work-life balance (WLB) support, job satisfaction, and inclusion as a function of work location. Design/methodology/approach–Web-based survey data were provided by 578 employees working at one of four 
+citations Cited by 107
+citation list https://scholar.google.com/scholar?cites=10848975389821620082&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title The mobile phone, perpetual contact and time pressure
+author M Bittman, JE Brown…
+year 2009
+excerpt Mobile phone services are now universally diffused, creating the possibility of perpetual contact, regardless of time and location. Many think the impossibility of being 'out of touch'leads to increased time pressure. In addition to claims that the mobile phone has led to 
+citations Cited by 101
+citation list https://scholar.google.com/scholar?cites=490766732337201126&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Mobile phones during work and non-work time: A case study of mobile, non-managerial workers
+author D Hislop, C Axtell
+year 2011
+excerpt This paper examines how some non-managerial/professional workers (mobile service engineers) used mobile phones for work, with a central focus on phone use during working hours. During working hours the engineers not only used their phones as work-related 
+citations Cited by 61
+citation list https://scholar.google.com/scholar?cites=17910085114962831244&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title Altering the effects of work and family conflict on exhaustion: Telework during traditional and nontraditional work hours
+author TD Golden
+year 2012
+excerpt Abstract Purpose The current study investigates the impact of time and strain-based work-to-family conflict (WFC) and family-to-work conflict (FWC) on exhaustion, by considering the moderating effect of telework conducted during traditional and non-traditional work hours. 
+citations Cited by 54
+citation list https://scholar.google.com/scholar?cites=16112584152264176113&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title 15 Do mobile technologies enable work–life balance?
+author CA Middleton
+year 2008
+excerpt This chapter explores the usage of mobile communication devices to support supplemental work. The 'anytime, anywhere'functionality of the devices makes them enormously convenient, and is thought to enhance people's work productivity, while facilitating work–life 
+citations Cited by 49
+citation list https://scholar.google.com/scholar?cites=14500694005707532936&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Crafting a balance between work and home
+author J Sturges
+year 2012
+excerpt This article reports the findings of a qualitative study that explored the unofficial techniques and activities that individuals use to shape their own work–life balance. It theorizes that this behaviour may be usefully conceptualized as physical, relational and cognitive work–life 
+citations Cited by 45
+citation list https://scholar.google.com/scholar?cites=14259183662450826586&as_sdt=2005&sciodt=0,5&hl=en

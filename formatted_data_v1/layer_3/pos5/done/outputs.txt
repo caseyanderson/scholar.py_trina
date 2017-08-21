@@ -1,0 +1,19 @@
+
+
+
+list number 0
+
+
+article number 0
+title Politeness: Some universals in language usage
+author P Brown, SC Levinson
+year 1987
+excerpt This study is about the principles for constructing polite speeches. The core of it first appeared in Questions and Politeness, edited by Esther N. Goody (now out of print). It is here reissued with a fresh introduction that surveys the considerable literature in linguistics, 
+citations Cited by 20373
+citation list https://scholar.google.com/scholar?cites=15733609946099502808&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Approaches to discourse
+author D Schiffrin
+year 1998

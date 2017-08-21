@@ -1,0 +1,561 @@
+
+
+
+list number 0
+
+
+article number 0
+title Ethnography: Principles in practice
+author M Hammersley, P Atkinson
+year 2007
+excerpt Now in its third edition, this leading introduction to ethnography has been thoroughly updated and substantially rewritten. It offers a systematic introduction to ethnographic principles and practice. New material covers the use of visual and virtual research methods, 
+citations Cited by 16262
+citation list https://scholar.google.com/scholar?cites=10691308346177490808&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title An introduction to discourse analysis: Theory and method
+author JP Gee
+year 2014
+excerpt Discourse analysis considers how language, both spoken and written, enacts social and cultural perspectives and identities. Assuming no prior knowledge of linguistics, An Introduction to Discourse Analysis examines the field and presents James Paul Gee's 
+citations Cited by 8469
+citation list https://scholar.google.com/scholar?cites=2180126693578550717&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title Pedagogy, symbolic control, and identity: Theory, research, critique
+author BB Bernstein
+year 2000
+excerpt This book, the fifth in the series developing Bernstein s code theory, presents a lucid account of the most recent developments of this code theory and, importantly, shows the close relation between this development and the empirical research to which the theory has given 
+citations Cited by 6689
+citation list https://scholar.google.com/scholar?cites=7895490385340371327&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Foundations of bilingual education and bilingualism
+author C Baker
+year 2011
+excerpt The fifth edition of this bestselling book provides a comprehensive introduction to bilingualism and bilingual education. In a compact and clear style, its 19 chapters cover all the crucial issues in bilingualism at individual, group and national levels. These include:* 
+citations Cited by 6061
+citation list https://scholar.google.com/scholar?cites=726703694332660626&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Literacy in the new media age
+author G Kress
+year 2003
+excerpt In this' new media age'the screen has replaced the book as the dominant medium of communication. This dramatic change has made image, rather than writing, the centre of communication. In this groundbreaking book, Gunther Kress considers the effects of a 
+citations Cited by 5069
+citation list https://scholar.google.com/scholar?cites=10164592091739302040&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Rethinking critical theory and qualitative research
+author JL Kincheloe, P McLaren
+year 2002
+excerpt Some seventy years after its development in Frankfurt, Germany, critical the ory retains its ability to disrupt and challenge the status quo. In the process, it elicits highly charged emotions of all types—ﬁerce loyalty from its propo—nents, vehement hostility from its 
+citations Cited by 3877
+citation list https://scholar.google.com/scholar?cites=13624344841599205612&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Intercultural communication: A discourse approach
+author R Scollon, SW Scollon, RH Jones
+year 2011
+excerpt This newly revised edition is both a lively introduction and practical guide to the main concepts and challenges of intercultural communication. Grounded in interactional sociolinguistics and discourse analysis, this work integrates theoretical principles and 
+citations Cited by 3680
+citation list https://scholar.google.com/scholar?cites=9608586791841143949&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title Local literacies: Reading and writing in one community
+author D Barton, M Hamilton
+year 2012
+excerpt LOCAL LITERACIES 'One of the best books on literacy I've read in my career. I can see myself 
+going back to this book again and again, learning more each time I read it. You can't leave the 
+book without new insights about the nature of literacy in people's lives.' David Bloome, Vanderbilt 
+citations Cited by 3149
+citation list https://scholar.google.com/scholar?cites=15546187348463547691&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title Multiliteracies: Literacy learning and the design of social futures
+author B Cope, M Kalantzis
+year 2000
+excerpt Multiliteracies considers the future of literacy teaching in the context of the rapidly changing English language. Questions are raised about what constitutes appropriate literacy teaching in today's world: a world that is both a global village yet one which local diversity is 
+citations Cited by 3153
+citation list https://scholar.google.com/scholar?cites=12084381132654593369&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Discourse: A critical introduction
+author J Blommaert
+year 2005
+excerpt This engaging 2005 introduction offers a critical approach to discourse, written by an expert uniquely placed to cover the subject for a variety of disciplines. Organised along thematic lines, the book begins with an outline of the basic principles, moving on to examine the 
+citations Cited by 3159
+citation list https://scholar.google.com/scholar?cites=8624437852536155009&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 1
+
+
+article number 0
+title Social network analysis
+author J Scott
+year 2017
+excerpt Incorporating the most important and cutting-edge developments in the field, this bestselling text introduces newcomers to the key theories and techniques of social network analysis and guides more experienced analysts in their own research. New to This Edition: A chapter on 
+citations Cited by 11868
+citation list https://scholar.google.com/scholar?cites=441395571923644907&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Social linguistics and literacies: Ideology in discourses
+author J Gee
+year 2015
+excerpt In its first edition, Social Linguistics and Literacies was a major contribution to the emerging interdisciplinary field of sociocultural approaches to language and literacy, and was one of the founding texts of the 'New Literacy Studies'. This book serves as a classic introduction to 
+citations Cited by 10739
+citation list https://scholar.google.com/scholar?cites=8982001184892209963&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title Qualitative communication research methods
+author TR Lindlof, BC Taylor
+year 2011
+excerpt While many volumes discuss qualitative methods, only Qualitative Communication Research Methods focuses on the history and diversity of their use within the communication discipline. This volume is written by, for, and about communication scholars. It introduces 
+citations Cited by 6359
+citation list https://scholar.google.com/scholar?cites=4796106322693805471&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Introduction
+author DM Anderson
+year 2014
+excerpt Abstract The concept of leverage plays an important role in different academic disciplines and different areas of life, but there has been little attention paid to the different kinds of leverage that exist. This book examines three main kinds of leverage, namely bargaining 
+citations Cited by 5513
+citation list https://scholar.google.com/scholar?cites=951326212885310723&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Vibrant matter: A political ecology of things
+author J Bennett
+year 2009
+excerpt In Vibrant Matter the political theorist Jane Bennett, renowned for her work on nature, ethics, and affect, shifts her focus from the human experience of things to things themselves. Bennett argues that political theory needs to do a better job of recognizing the active 
+citations Cited by 4659
+citation list https://scholar.google.com/scholar?cites=3886250913516351090&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Routledge encyclopedia of translation studies
+author M Baker, G Saldanha
+year 2009
+excerpt Praise for the previous edition of the Encyclopedia of Translation Studies:'Translation has long deserved this sort of treatment. Appropriate for any college or university library supporting a program in linguistics, this is vital in those institutions that train students to 
+citations Cited by 2703
+citation list https://scholar.google.com/scholar?cites=13314729617787140703&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Political ecology: A critical introduction
+author P Robbins
+year 2011
+excerpt This fully updated new edition introduces the core concepts, central thinkers, and major works of the burgeoning field of political ecology. Explores the key arguments and contemporary explanatory challenges facing the sub-discipline Provides the first full history 
+citations Cited by 2492
+citation list https://scholar.google.com/scholar?cites=8237431174485770284&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+
+
+article number 8
+title Being alive: Essays on movement, knowledge and description
+author T Ingold
+year 2011
+excerpt Anthropology is a disciplined inquiry into the conditions and potentials of human life. Generations of theorists, however, have expunged life from their accounts, treating it as the mere output of patterns, codes, structures or systems variously defined as genetic or cultural, 
+citations Cited by 1948
+citation list https://scholar.google.com/scholar?cites=17488265408488159874&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Coming of age in Second Life: An anthropologist explores the virtually human
+author T Boellstorff
+year 2015
+excerpt Millions of people around the world today spend portions of their lives in online virtual worlds. Second Life is one of the largest of these virtual worlds. The residents of Second Life create communities, buy property and build homes, go to concerts, meet in bars, attend 
+citations Cited by 1862
+citation list https://scholar.google.com/scholar?cites=2926284288290735493&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 2
+
+
+article number 0
+title Space, place and gender
+author D Massey
+year 2013
+excerpt This new book brings together Doreen Massey's key writings on three areas central to a range of disciplines. In addition, the author reflects on the development of these ideas and outlines her current position on these important issues. The book is organized around the 
+citations Cited by 13686
+citation list https://scholar.google.com/scholar?cites=5039460047213177920&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Reassembling the social: An introduction to actor-network-theory
+author B Latour
+year 2005
+excerpt Reassembling the Social is a fundamental challenge from one of the world's leading social theorists to how we understand society and the'social'. Bruno Latour's contention is that the word'social', as used by Social Scientists, has become laden with assumptions to the point 
+citations Cited by 16331
+citation list https://scholar.google.com/scholar?cites=14828526848182013719&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title Interview
+author S Brinkmann
+year 2014
+excerpt The interview has today become one of the most widespread knowledge-producing practices across the human and social sciences in general and also in critical psychology more specifically. The interview exists in a variety of forms ranging from formal interviews, for 
+citations Cited by 27064
+citation list https://scholar.google.com/scholar?cites=16131024704350171301&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title An introduction to discourse analysis: Theory and method
+author JP Gee
+year 2014
+excerpt Discourse analysis considers how language, both spoken and written, enacts social and cultural perspectives and identities. Assuming no prior knowledge of linguistics, An Introduction to Discourse Analysis examines the field and presents James Paul Gee's 
+citations Cited by 8469
+citation list https://scholar.google.com/scholar?cites=2180126693578550717&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title How we became posthuman: Virtual bodies in cybernetics, literature, and informatics
+author NK Hayles
+year 2008
+excerpt In this age of DNA computers and artificial intelligence, information is becoming disembodied even as the" bodies" that once carried it vanish into virtuality. While some marvel at these changes, envisioning consciousness downloaded into a computer or 
+citations Cited by 6386
+citation list https://scholar.google.com/scholar?cites=980890572851665954&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Making knowledge the basis of a dynamic theory of the firm
+author JC Spender
+year 1996
+excerpt Abstract Knowledge is too problematic a concept to make the task of building a dynamic knowledge-based theory of the firm easy. We must also distinguish the theory from the resource-based and evolutionary views. The paper begins with a multitype epistemology 
+citations Cited by 5215
+citation list https://scholar.google.com/scholar?cites=2230223166365683824&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title The regional world: territorial development in a global economy
+author M Storper
+year 1997
+excerpt This pioneering volume proposes a compelling new theory of how regions have sustained their economic viability in the era of multinational corporations. Unlike traditional approaches, which analyze economic systems in terms of their mechanics (inputs, outputs, 
+citations Cited by 4593
+citation list https://scholar.google.com/scholar?cites=11080283063311825032&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title Sociology beyond societies: Mobilities for the twenty-first century
+author J Urry
+year 2012
+excerpt In this ground-breaking contribution to social theory, John Urry argues that the traditional basis of sociology-the study of society-is outmoded in an increasingly borderless world. If sociology is to make a pertinent contribution to the post societal era it must forget the social 
+citations Cited by 4534
+citation list https://scholar.google.com/scholar?cites=17285657637103828977&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning
+author K Barad
+year 2007
+excerpt Meeting the Universe Halfway is an ambitious book with far-reaching implications for numerous fields in the natural sciences, social sciences, and humanities. In this volume, Karen Barad, theoretical physicist and feminist theorist, elaborates her theory of agential 
+citations Cited by 4689
+citation list https://scholar.google.com/scholar?cites=9776015716078916206&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Representing reality: Discourse, rhetoric and social construction
+author J Potter
+year 1996
+excerpt This is an admirable book which can be recommended to students with confidence, and is likely also to become an indispensable source of reference for those researching fact construction'-Discourse & Society How is reality manufactured? The idea of social 
+citations Cited by 4159
+citation list https://scholar.google.com/scholar?cites=15673161387606716869&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 3
+
+
+article number 0
+title Social linguistics and literacies: Ideology in discourses
+author J Gee
+year 2015
+excerpt In its first edition, Social Linguistics and Literacies was a major contribution to the emerging interdisciplinary field of sociocultural approaches to language and literacy, and was one of the founding texts of the 'New Literacy Studies'. This book serves as a classic introduction to 
+citations Cited by 10739
+citation list https://scholar.google.com/scholar?cites=8982001184892209963&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Designing qualitative research
+author C Marshall, GB Rossman
+year 2014
+excerpt Addressing the complexity, flexibility, and controversies of qualitative research's many genres, Designing Qualitative Research, Sixth Edition gives students, research managers, policy analysts, and applied researchers clear, easy-to-understand guidance on designing 
+citations Cited by 26216
+citation list https://scholar.google.com/scholar?cites=13718888185095121480&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title Critical discourse analysis: The critical study of language
+author N Fairclough
+year 2013
+excerpt Bringing together papers written by Norman Fairclough over a 25 year period, Critical Discourse Analysis represents a comprehensive and important contribution to the development of this popular field. The book is divided into seven sections covering the 
+citations Cited by 15141
+citation list https://scholar.google.com/scholar?cites=5279605966512003657&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Interview
+author S Brinkmann
+year 2014
+excerpt The interview has today become one of the most widespread knowledge-producing practices across the human and social sciences in general and also in critical psychology more specifically. The interview exists in a variety of forms ranging from formal interviews, for 
+citations Cited by 27064
+citation list https://scholar.google.com/scholar?cites=16131024704350171301&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Analysing discourse: Textual analysis for social research
+author N Fairclough
+year 2003
+excerpt " Analysing Discourse is an accessible introduction to text and discourse analysis for all students and researchers seeking to use and investigate real language data. Students and researchers in the social sciences, as well as language specialists, often discover that they 
+citations Cited by 9986
+citation list https://scholar.google.com/scholar?cites=5973182266507478466&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Intercultural communication: A discourse approach
+author R Scollon, SW Scollon, RH Jones
+year 2011
+excerpt This newly revised edition is both a lively introduction and practical guide to the main concepts and challenges of intercultural communication. Grounded in interactional sociolinguistics and discourse analysis, this work integrates theoretical principles and 
+citations Cited by 3680
+citation list https://scholar.google.com/scholar?cites=9608586791841143949&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Qualitative methods in social work research
+author DK Padgett
+year 2016
+excerpt Qualitative Methods in Social Work Research provides accessible, how-to instruction for carrying out rigorous qualitative research. Deborah K. Padgett's thoroughly revised Third Edition offers a comprehensive introduction to qualitative methods based on six major 
+citations Cited by 3313
+citation list https://scholar.google.com/scholar?cites=10852406460915131477&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title Qualitative research from start to finish
+author RK Yin
+year 2015
+excerpt This book will help readers understand the practice of qualitative research--whether they want to do it, teach it, or just learn about it. All the major research phases are encompassed (startup, design, data collection, analysis, and composing), including newly emerging trends. 
+citations Cited by 3022
+citation list https://scholar.google.com/scholar?cites=14008697890854940064&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title Situated language and learning: A critique of traditional schooling
+author JP Gee
+year 2004
+excerpt Why do poor and minority students under-perform in school? Do computer games help or hinder learning? What can new research in psychology teach our educational policy-makers? In this major new book, Gee tackles the'big ideas' about language, literacy and 
+citations Cited by 2716
+citation list https://scholar.google.com/scholar?cites=5470791173284938034&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Chapter 3: Identity as an analytic lens for research in education
+author JP Gee
+year 2000
+excerpt In today's fast changing and interconnected global world, researchers in a variety of areas have come to see identity as an important analytic tool for understanding schools and society. A focus on the contextually specific ways in which people act out and recognize 
+citations Cited by 2699
+citation list https://scholar.google.com/scholar?cites=3465895936054943351&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 4
+
+
+article number 0
+title Science in action: How to follow scientists and engineers through society
+author B Latour
+year 1987
+excerpt Science and technology have immense authority and influence in our society, yet their working remains little understood. The conventional perception of science in Western societies has been modified in recent years by the work of philosophers, sociologists and 
+citations Cited by 24003
+citation list https://scholar.google.com/scholar?cites=10922944799704852881&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Reassembling the social: An introduction to actor-network-theory
+author B Latour
+year 2005
+excerpt Reassembling the Social is a fundamental challenge from one of the world's leading social theorists to how we understand society and the'social'. Bruno Latour's contention is that the word'social', as used by Social Scientists, has become laden with assumptions to the point 
+citations Cited by 16331
+citation list https://scholar.google.com/scholar?cites=14828526848182013719&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title We have never been modern
+author B Latour
+year 2012
+excerpt With the rise of science, we moderns believe, the world changed irrevocably, separating us forever from our primitive, premodern ancestors. But if we were to let go of this fond conviction, Bruno Latour asks, what would the world look like? His book, an anthropology of 
+citations Cited by 14346
+citation list https://scholar.google.com/scholar?cites=3242855425130389280&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title The reflective practitioner: How professionals think in action
+author DA Schon
+year 1984
+excerpt Library of Congress Cataloging in Publication Data Schon, Donald A. The reflective 
+practitioner. Includes bibliographical references and index. 1. Professions. 2. Thought and 
+thinking. 3. Self- knowledge, Theory of. I. Title. HD8028.A1S35 1982 152.4 82-70855 ISBN 
+citations Cited by 53770
+citation list https://scholar.google.com/scholar?cites=2647640071443205054&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Some elements of a sociology of translation: domestication of the scallops and the fishermen of St Brieuc Bay
+author M Callon
+year 1984
+excerpt This paper outlines a new approach to the study of power, that of the sociology of translation. Starting from three principles, those of agnosticism (impartiality between actors engaged in controversy), generalised symmetry (the commitment to explain conflicting viewpoints in the 
+citations Cited by 8176
+citation list https://scholar.google.com/scholar?cites=17835310976650540655&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title The science question in feminism
+author SG Harding
+year 1986
+excerpt Can science, steeped in Western, masculine, bourgeois endeavors, nevertheless be used for emancipatory ends? In this major contribution to the debate over the role gender plays in the scientific enterprise, Sandra Harding pursues that question, challenging the intellectual 
+citations Cited by 7022
+citation list https://scholar.google.com/scholar?cites=1629766033201515920&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Whose science? Whose knowledge?: Thinking from women's lives
+author S Harding
+year 2016
+excerpt Sandra Harding here develops further the themes first addressed in her widely influential book, The Science Question in Feminism, and conducts a compelling analysis of feminist theories on the philosophical problem of how we know what we know. Following a strong 
+citations Cited by 6161
+citation list https://scholar.google.com/scholar?cites=740501310724707997&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title The possibility of naturalism: A philosophical critique of the contemporary human sciences
+author R Bhaskar
+year 2014
+excerpt Since its original publication in 1979, The Possibility of Naturalism has been one of the most influential works in contemporary philosophy of science and social science. It is one of the cornerstones of the critical realist position, which is now widely seen as offering perhaps the 
+citations Cited by 5365
+citation list https://scholar.google.com/scholar?cites=11683617831093915868&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title Representing and intervening: Introductory topics in the philosophy of natural science
+author I Hacking
+year 1983
+excerpt This 1983 book is a lively and clearly written introduction to the philosophy of natural science, organized around the central theme of scientific realism. It has two parts.'Representing'deals with the different philosophical accounts of scientific objectivity 
+citations Cited by 5355
+citation list https://scholar.google.com/scholar?cites=18066292271329732652&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Realities and relationships: Soundings in social construction
+author KJ Gergen
+year 2009
+excerpt It was after the publication of my book Toward Transformation in Social Knowledge that my engagement in social constructionism took a serious turn. I had long been involved in a critical analysis of empiricist psychology, but in this volume I found the elements of a social 
+citations Cited by 4163
+citation list https://scholar.google.com/scholar?cites=245523723768565991&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 5
+
+
+article number 0
+title Qualitative researching
+author J Mason
+year 2002
+excerpt The Second Edition of this bestselling text offers students and first-time researchers invaluable guidance to the practice of qualitative social research. Throughout the author addresses the key issues which need to be identified and resolved in the qualitative 
+citations Cited by 10645
+citation list https://scholar.google.com/scholar?cites=10328257692913876280&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Interpreting qualitative data: Methods for analyzing talk, text and interaction
+author D Silverman
+year 2006
+excerpt .'Reading Silverman's user-friendly volume is like sitting in his seminars with all eyes and ears, reflecting on each stage of an ongoing small-scale study under his guidance with his invisible presence. His insights in doing research and the interdisciplinary nature of this 
+citations Cited by 16298
+citation list https://scholar.google.com/scholar?cites=12344771331363557143&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title Social constructionism
+author V Burr
+year 2015
+excerpt Now in its third edition, this successful book introduces students to the area of social science theory and research known as social constructionism. Using a variety of examples from everyday experience and from existing research in areas such as personality, sexuality and 
+citations Cited by 9166
+citation list https://scholar.google.com/scholar?cites=16662738490311601342&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Qualitative psychology: A practical guide to research methods
+author JA Smith
+year 2007
+excerpt Covering all the main qualitative approaches now used in psychology-the Second Edition offers readers a step-by-step guide to carrying out research using each particular method with plenty of pedagogical advice. All chapters are written by international experts-many of 
+citations Cited by 6119
+citation list https://scholar.google.com/scholar?cites=9877122885375315196&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title An invitation to social construction
+author KJ Gergen
+year 1999
+excerpt An Invitiation to Social Construction is a rewarding read for newcomers to social constructionist thinking and for those well acquainted with this view.'-New TherapistKenneth Gergen's new book, An Invitation to Social Construction, may be the best introduction to the 
+citations Cited by 5114
+citation list https://scholar.google.com/scholar?cites=1854597932199170801&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Social identity
+author R Jenkins
+year 2014
+excerpt Social Identity explains how identification, seen as a social process, works: individually, interactionally and institutionally. Building on the international success of previous editions, this fourth edition offers a concise, comprehensive and readable critical introduction to social 
+citations Cited by 4884
+citation list https://scholar.google.com/scholar?cites=120038750218033262&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Introducing qualitative research in psychology
+author C Willig
+year 2013
+excerpt Open University Press McGraw-Hill Education McGraw-Hill House Shoppenhangers Road Maidenhead 
+Berkshire England SL6 2QL email: enquiries@openup.co.uk world wide web: 
+www.openup.co.uk and Two Penn Plaza, New York, NY 10121-2289, USA First published 2013 
+citations Cited by 4736
+citation list https://scholar.google.com/scholar?cites=14172784573808800775&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title Theories of human communication
+author SW Littlejohn, KA Foss
+year 2010
+excerpt For almost four decades, Theories of Human Communication has offered readers an engaging and informative guide to the rich array of theories that influence our understanding of communication. The first edition broke new ground with its comprehensive discussion of 
+citations Cited by 4428
+citation list https://scholar.google.com/scholar?cites=6956114867972566778&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title Virtual ethnography
+author C Hine
+year 2000
+excerpt Etnografie is een basisvorm van kwalitatief sociaal onderzoek. De term etnografie verwijst naar de beschrijvende studie van de leefwijzen van menselijke collectiviteiten, zoals stammen of volken maar ook van deel-collectiviteiten, zoals bijvoorbeeld een beroepsgroep. 
+citations Cited by 4180
+citation list https://scholar.google.com/scholar?cites=12086874616681650225&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Discourse in late modernity: Rethinking critical discourse analysis
+author L Chouliaraki, N Fairclough
+year 1999

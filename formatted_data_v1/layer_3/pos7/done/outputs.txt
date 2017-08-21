@@ -1,0 +1,255 @@
+
+
+
+list number 0
+
+
+article number 0
+title The photography handbook
+author T Wright
+year 2016
+excerpt The new edition of The Photography Handbook builds on previous editions' illuminating overview of the history, theory and practice of the creation and consumption of photographic images, and engages with the practical and theoretical implications of the explosion of new 
+citations Cited by 107
+citation list https://scholar.google.com/scholar?cites=5042477172385892703&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Making futures: Marginal notes on innovation, design, and democracy
+author P Ehn, EM Nilsson, R Topgaard
+year 2014
+excerpt Innovation and design need not be about the search for a killer app. Innovation and design can start in people's everyday activities. They can encompass local services, cultural production, arenas for public discourse, or technological platforms. The approach is 
+citations Cited by 54
+citation list https://scholar.google.com/scholar?cites=13665875342954814569&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title Making Commons: Attempts at composing prospects in the opening of production
+author A Seravalli
+year 2014
+excerpt This thesis accounts for a designerly inquiry into the swamp of the opening of production. The “opening of production” refers to the rising of openness, collaboration and sharing in processes through which things are made and service delivered. It is defined as a swamp, 
+citations Cited by 16
+citation list https://scholar.google.com/scholar?cites=11554513657872791694&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title The computer is a medium, not a tool: Collaborative media challenging interaction design
+author J Löwgren, B Reimer
+year 2013
+excerpt Abstract: Collaborative media entail an emerging set of digitally mediated practices, characterized by collaborative communicative action within organically developing, cross-medial infrastructures. We argue that computers are increasingly turning from tools into 
+citations Cited by 9
+citation list https://scholar.google.com/scholar?cites=6979104017571635746&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Grasping the Digital News User: Conceptual and methodological advances in news use studies
+author I Picone
+year 2016
+excerpt In recent years, people's news consumption has become increasingly fragmented over different devices, news sources and, especially with the advent of mobile technologies, different situational contexts. This renders a growing part of our (news) media consumption 
+citations Cited by 6
+citation list https://scholar.google.com/scholar?cites=3101544332492727530&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title At the intersection of commons and market: Negotiations of value in open-sourced cultural production
+author J Velkova, P Jakobsson
+year 2017
+excerpt This article explores the way in which producers of digital cultural commons use new production models based on openness and sharing to interact with and adapt to existing structures such as the capitalist market and the economies of public cultural funding. 
+citations Cited by 5
+citation list https://scholar.google.com/scholar?cites=3458454563767782608&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title 'PESO'media strategy shifts to 'SOEP': Opportunities and ethical dilemmas
+author J Macnamara, M Lwin, A Adi, A Zerfass
+year 2016
+excerpt Abstract It is well established that the internet, and particularly the unprecedented growth of social media, are changing the mediascape and media practices in advertising, public relations, and journalism. Some of these changes are leading to convergence of genre and 
+citations Cited by 4
+citation list https://scholar.google.com/scholar?cites=5273282661630179038&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title Transversal media practices: Media archaeology, art and technological development
+author K Gansing
+year 2013
+excerpt Transversal Media Practices work across specific situations of technological development, critically examining and redefining the terms of production in different media by bringing heterogeneous histories, institutions, actors and materialities into play with one another. This 
+citations Cited by 7
+citation list https://scholar.google.com/scholar?cites=14952254755329456600&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title The media archaeology of file sharing: broadcasting computer code to Swedish homes
+author J Skågeby
+year 2015
+excerpt What form did file sharing take before the internet's usage became mainstream, and what practices from that period remain? This article examines a Swedish radio show that broadcast listener-contributed computer code in the mid 1980s. It applies a combined 
+citations Cited by 3
+citation list https://scholar.google.com/scholar?cites=2903081422909411889&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Patchworking Ways of Knowing and Making
+author K Lindström, Å Ståhl
+year 2015
+excerpt Ever since design started to become a discipline, there have been ongoing discussions about what characterizes 'designerly ways of knowing'. Brandt et al. argue that'... whereas design education traditionally focuses on a given discipline such as graphic design or textile 
+citations Cited by 1
+citation list https://scholar.google.com/scholar?cites=10131872516136026514&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 1
+
+
+article number 0
+title Democratic design experiments: between parliament and laboratory
+author T Binder, E Brandt, P Ehn, J Halse
+year 2015
+excerpt For more than four decades, participatory design has provided exemplars and concepts for understanding the democratic potential of design participation. Despite important impacts on design methodology, participatory design has, however, been stuck in a marginal position 
+citations Cited by 30
+citation list https://scholar.google.com/scholar?cites=17384250962755922229&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Towards commons design in participatory design
+author S Marttila, A Botero, J Saad-Sulonen
+year 2014
+excerpt Abstract This article probes what the Participatory Design (PD) field can gain from exploring the literature on commons. Through selected examples we point to some connections and commonalities between that literature and the PD field. In doing this, we also bring forward 
+citations Cited by 16
+citation list https://scholar.google.com/scholar?cites=14124065230680002878&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title iMedia: The gendering of objects, environments and smart materials
+author S Kember
+year 2016
+excerpt What can queer feminist writing strategies such as parody and irony do to outsmart the sexism of smart objects, environments and materials and open out the new dialecticism of structure and scale, critique and creativity? Drawing on science and technology studies and 
+citations Cited by 6
+citation list https://scholar.google.com/scholar?cites=18151005408739267650&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Möten med PISA: kunskapsmätning som samspel mellan elever och provuppgifter i och om naturvetenskap
+author M Serder
+year 2015
+excerpt This thesis explores the standardized assessment of students' scientific literacy by studying test items, frameworks and result reports from the international comparative study Programme for International Student Assessment, PISA. My research concerns the negative 
+citations Cited by 13
+citation list https://scholar.google.com/scholar?cites=12827902067451525702&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Communicating Care: The Contradictions of HPV Vaccination Campaigns
+author L Lindén
+year 2016
+excerpt In Greek mythology, Pandora was given a box by the gods but told not to open it. Overcome by curiosity, she opened it anyway. Immediately, all kinds of trials and sufferings flew out over the world. The only thing that Pandora managed to keep in the box was Hope, which is 
+citations Cited by 4
+citation list https://scholar.google.com/scholar?cites=8126488895497500919&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Figurations of spatiality and temporality in participatory design and after–networks, meshworks and patchworking
+author K Lindström, Å Ståhl
+year 2015
+excerpt In recent years, many have combined actor–network theory (and after) and collective design. In this emerging field that we call participatory design and after, many have proposed and appropriated figurations such as networks, fluid, fire, thing and meshwork. In this paper, we 
+citations Cited by 5
+citation list https://scholar.google.com/scholar?cites=11761087417477301824&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Object-oriented publics
+author T Jenkins, CA Le Dantec, C DiSalvo, T Lodato…
+year 2016
+excerpt Abstract Social computing-or computing in a social context-has largely concerned itself with understanding social interaction among and between people. This paper asserts that ignoring material components-including computing itself-as social actors is a mistake. 
+citations Cited by 3
+citation list https://scholar.google.com/scholar?cites=18406641731304936948&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 7
+title Stakes at the Edge of Participation: Where Words and Things Are the Entirely Serious Title of a Problem
+author L Jönsson, T Lenskjold
+year 2015
+excerpt ABSTRACT This paper examines how the material performativity of experimental prototypes can provide us with new insights into what it means to “have a stake” when engaged in co-design. For participants like birds and frail elderly people, a participatory interest cannot 
+citations Cited by 2
+citation list https://scholar.google.com/scholar?cites=15059834025982187054&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 8
+title Patchworking Ways of Knowing and Making
+author K Lindström, Å Ståhl
+year 2015
+excerpt Ever since design started to become a discipline, there have been ongoing discussions about what characterizes 'designerly ways of knowing'. Brandt et al. argue that'... whereas design education traditionally focuses on a given discipline such as graphic design or textile 
+citations Cited by 1
+citation list https://scholar.google.com/scholar?cites=10131872516136026514&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 9
+title Participatory mobile media projects as academic practice
+author J Weight
+year 2014
+excerpt Abstract Participatory media projects are a burgeoning ground of academic, activist, artistic, and educational activity. Using networked mobile devices, such as smartphones and tablets to enable media production and dissemination through social media, people are producing 
+citations Cited by 1
+citation list https://scholar.google.com/scholar?cites=16185079568511573229&as_sdt=2005&sciodt=0,5&hl=en
+
+
+
+list number 2
+
+
+article number 0
+title Feminism, Digital Culture and the Politics of Transmission: theory, practice and cultural heritage
+author D Withers
+year 2015
+excerpt Devises a theoretical framework to think through the politics of transmission within feminism. 
+It draws upon and develops the work of Bernard Stiegler to create a theoretical apparatus that 
+can analyze the politics of transmission within digital culture.   ... This entry has no external 
+citations Cited by 14
+citation list https://scholar.google.com/scholar?cites=17603562202987654279&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 1
+title Speculative before the turn: Reintroducing feminist materialist performativity
+author C Åsberg, K Thiele, I Van der Tuin
+year 2015
+excerpt Abstract This is a moment for new conversations and new synergies. While a wealth of contemporary speculative materialisms is currently circulating in academia, art and activism, in this article we focus upon a few ethico-political stakes in the different, loosely affiliated 
+citations Cited by 11
+citation list https://scholar.google.com/scholar?cites=1896693176348534816&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 2
+title Framing, following, middling: Towards methodologies of relational materialities
+author M Tiainen, KK Kontturi…
+year 2015
+excerpt Abstract Through the conceptual triptych of framing, following and middling, this article explores the composition and importance of materialities beyond their seemingly stable and measurable objectivity. Drawing on recent insights about concepts as generative of practice 
+citations Cited by 5
+citation list https://scholar.google.com/scholar?cites=617484218068818733&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 3
+title Microaggressions as New Political Material for Feminist Scholars and Activists: Perspectives from Continental Philosophy, the New Materialisms, and Popular Culture
+author I van der Tuin
+year 2016
+excerpt ABSTRACT This article discusses microaggressions as new political material for feminist scholars and activists. The article asks how the new materialisms may contribute to the conceptualisation and operationalisation of microaggressions. After all, and taking them at 
+citations Cited by 2
+citation list https://scholar.google.com/scholar?cites=157655369180811655&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 4
+title Digital Feminicity: Predication and Measurement, Materialist Informatics and Images
+author F Colman
+year 2014
+excerpt “Feminicity” is the term for a predicate register that enables feminist work be accounted for as relational “active-points”(as an alternative formulation to standpoints) that collectively can be seen through what they have achieved. But going further, it marks where those active-
+citations Cited by 4
+citation list https://scholar.google.com/scholar?cites=7513782231857531955&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 5
+title Notes towards a surfacing of feminist theoretical turns
+author R Coleman
+year 2016
+excerpt ABSTRACT This article suggests that feminist theoretical turns are illuminating to study, as they make explicit how Western feminist theory is interested not only in the content of different theoretical turns, but also, relatedly, in how these turns move feminist theory in 
+citations Cited by 1
+citation list https://scholar.google.com/scholar?cites=13158304322642267686&as_sdt=2005&sciodt=0,5&hl=en
+
+
+article number 6
+title Cyborgian entanglements: post-human feminism, diffraction and the science exhibition Bundled-up in Blue
+author A Bergsdóttir
+year 2017
+excerpt ABSTRACT This article articulates a post-human feminist museology within cultural heritage museums. It focuses on the entwined intra-actions of museum artifacts, traditional exhibition forms and technologies, and considers how sex/gender is enmeshed in entanglements of 
